@@ -1,29 +1,28 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: PhD in Population Health
+    institution: University of Bristol
+    year: 2019-2022
+  - course: MSc in Epidemiology
+    institution: London School of Hygiene and Tropical Medicine
+    year: 2017
+  - course: BA (Mod.) in Genetics
+    institution: Trinity College Dublin
+    year: 2016
+email: "luke.mcguinness@bristol.ac.uk"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+- Dementia epidemiology
+- Evidence synthesis methods
+- Open science
+name: Luke McGuinness
 organizations:
-- name: Stanford University
+- name: Univeristy of Bristol Medical School
   url: ""
-role: Professor of Artificial Intelligence
+role: NIHR Doctoral Research Fellow 
 social:
 - icon: envelope
   icon_pack: fas
@@ -43,4 +42,4 @@ user_groups:
 - Visitors
 ---
 
-Luke McGuinness is an NIHR Doctoral Research Fellow at the University of Bristol Medical School, where he is using evidence synthesis methods to examine the relationship between blood lipid levels and dementia risk. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Luke McGuinness is an NIHR Doctoral Research Fellow at the University of Bristol Medical School, where he is using evidence synthesis methods to examine the relationship between blood lipid levels and dementia risk. 
