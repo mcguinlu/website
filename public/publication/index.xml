@@ -6,39 +6,36 @@
     <description>Recent content in Publications on Luke A McGuinness</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0100</pubDate>
+      <title>Synthesising quantitative evidence in systematic reviews of complex health interventions</title>
+      <link>/publication/journal-article/synthesising-quantitative-evidence-in-systematic-reviews/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/preprint/</guid>
-      <description> Supplementary notes can be added here, including code and math.
-  </description>
+      <guid>/publication/journal-article/synthesising-quantitative-evidence-in-systematic-reviews/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0100</pubDate>
+      <title>The validity of dementia diagnoses in routinely collected electronic health records in the United Kingdom; a systematic review</title>
+      <link>/publication/journal-article/validity-of-dementia-diagnoses/</link>
+      <pubDate>Tue, 22 Jan 2019 05:14:17 +0100</pubDate>
       
-      <guid>/publication/journal-article/</guid>
-      <description> Supplementary notes can be added here, including code and math.
-  </description>
+      <guid>/publication/journal-article/validity-of-dementia-diagnoses/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0100</pubDate>
+      <title>Assessing the credibility of non-randomised studies of interventions</title>
+      <link>/publication/journal-article/assessing-the-credibility-of-nrsi-jama-cardio/</link>
+      <pubDate>Mon, 01 Oct 2018 05:14:17 +0100</pubDate>
       
-      <guid>/publication/conference-paper/</guid>
-      <description> Supplementary notes can be added here, including code and math.
-  </description>
+      <guid>/publication/journal-article/assessing-the-credibility-of-nrsi-jama-cardio/</guid>
+      <description></description>
     </item>
     
   </channel>

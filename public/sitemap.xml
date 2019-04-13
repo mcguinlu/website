@@ -9,14 +9,20 @@
   
     <url>
     
-      <loc>/publication/preprint/</loc>
-      <lastmod>2019-04-07T00:00:00+01:00</lastmod>
+      <loc>/publication/journal-article/synthesising-quantitative-evidence-in-systematic-reviews/</loc>
+      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
     </url>
   
     <url>
     
-      <loc>/post/jupyter/</loc>
-      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+      <loc>/publication/journal-article/validity-of-dementia-diagnoses/</loc>
+      <lastmod>2019-01-22T05:14:17+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/journal-article/assessing-the-credibility-of-nrsi-jama-cardio/</loc>
+      <lastmod>2018-10-01T05:14:17+01:00</lastmod>
     </url>
   
     <url>
@@ -51,59 +57,7 @@
   
     <url>
     
-      <loc>/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/publication/journal-article/</loc>
-      <lastmod>2015-09-01T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/post/2015-07-23-r-rmarkdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/publication/conference-paper/</loc>
-      <lastmod>2013-07-01T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
       <loc>/author/admin/</loc>
-    </url>
-  
-    <url>
-    
-      <loc>/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/publication_types/2/</loc>
-      <lastmod>2015-09-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/publication_types/3/</loc>
-      <lastmod>2019-04-07T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
   
     <url>
@@ -120,7 +74,49 @@
   
     <url>
     
+      <loc>/authors/becker-bj/</loc>
+      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/bias/</loc>
+      <lastmod>2018-10-01T05:14:17+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/caldwell-dm/</loc>
+      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>/categories/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/commentary/</loc>
+      <lastmod>2018-10-01T05:14:17+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/davies-sr/</loc>
+      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/dawson-s/</loc>
+      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -133,8 +129,36 @@
   
     <url>
     
+      <loc>/tags/dementia/</loc>
+      <lastmod>2019-01-22T05:14:17+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>/tags/demo/</loc>
       <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/grimshaw-jm/</loc>
+      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/higgins-jpt/</loc>
+      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/higgins-jpt/</loc>
+      <lastmod>2018-10-01T05:14:17+01:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -147,8 +171,49 @@
   
     <url>
     
+      <loc>/authors/l%C3%B3pez-l%C3%B3pez-ja/</loc>
+      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/mcguinness-la/</loc>
+      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/mcguinness-la/</loc>
+      <lastmod>2019-01-22T05:14:17+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/methods/</loc>
+      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/moore-th/</loc>
+      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/moorhouse-lr/</loc>
+      <lastmod>2019-01-22T05:14:17+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>/post/</loc>
-      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     </url>
   
     <url>
@@ -161,28 +226,13 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2013-07-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>/publication/</loc>
-      <lastmod>2019-04-07T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/categories/r/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/r-markdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
+      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
     </url>
   
     <url>
@@ -193,8 +243,8 @@
   
     <url>
     
-      <loc>/authors/robert-ford/</loc>
-      <lastmod>2013-07-01T00:00:00+01:00</lastmod>
+      <loc>/authors/rehfuess-ea/</loc>
+      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -211,36 +261,49 @@
   
     <url>
     
-      <loc>/tags/source-themes/</loc>
-      <lastmod>2019-04-07T00:00:00+01:00</lastmod>
+      <loc>/authors/sterne-jac/</loc>
+      <lastmod>2018-10-01T05:14:17+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/systematic-review/</loc>
+      <lastmod>2019-01-22T05:14:17+01:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2018-01-13T00:00:00+00:00</lastmod>
+      <lastmod>2018-10-01T05:14:17+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/thomas-j/</loc>
+      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/thomas-sl/</loc>
+      <lastmod>2019-01-22T05:14:17+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/warrengash-c/</loc>
+      <lastmod>2019-01-22T05:14:17+01:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>/authors/admin/</loc>
-      <lastmod>2019-04-07T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/plot/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/regression/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
   

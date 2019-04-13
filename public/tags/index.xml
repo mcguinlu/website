@@ -6,17 +6,26 @@
     <description>Recent content in Tags on Luke A McGuinness</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 01 Oct 2018 05:14:17 +0100</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Academic</title>
-      <link>/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      <title>Bias</title>
+      <link>/tags/bias/</link>
+      <pubDate>Mon, 01 Oct 2018 05:14:17 +0100</pubDate>
       
-      <guid>/tags/academic/</guid>
+      <guid>/tags/bias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Commentary</title>
+      <link>/tags/commentary/</link>
+      <pubDate>Mon, 01 Oct 2018 05:14:17 +0100</pubDate>
+      
+      <guid>/tags/commentary/</guid>
       <description></description>
     </item>
     
@@ -30,6 +39,15 @@
     </item>
     
     <item>
+      <title>Dementia</title>
+      <link>/tags/dementia/</link>
+      <pubDate>Tue, 22 Jan 2019 05:14:17 +0100</pubDate>
+      
+      <guid>/tags/dementia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Demo</title>
       <link>/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
@@ -39,38 +57,20 @@
     </item>
     
     <item>
-      <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Methods</title>
+      <link>/tags/methods/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/r-markdown/</guid>
+      <guid>/tags/methods/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Source Themes</title>
-      <link>/tags/source-themes/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0100</pubDate>
+      <title>Systematic review</title>
+      <link>/tags/systematic-review/</link>
+      <pubDate>Tue, 22 Jan 2019 05:14:17 +0100</pubDate>
       
-      <guid>/tags/source-themes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>plot</title>
-      <link>/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/plot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>regression</title>
-      <link>/tags/regression/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/regression/</guid>
+      <guid>/tags/systematic-review/</guid>
       <description></description>
     </item>
     
