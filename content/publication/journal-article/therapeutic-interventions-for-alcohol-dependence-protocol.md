@@ -3,7 +3,6 @@ categories: []
 date: "2017-04-11T05:14:17+01:00"
 authors: ["Cheng, HY", "Elbers, RG", "Higgins, JPT", "Taylor, A", "MacArthur, GJ", "**McGuinness, LA**", " Dawson, S", "López-López, JA", "Cowlishaw, S", "Hickman, M", "Kessler, D"]
 draft: false
-featured: true
 image:
   caption: ""
   focal_point: ""

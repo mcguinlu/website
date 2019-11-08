@@ -3,7 +3,6 @@ categories: []
 date: "2019-01-22T05:14:17+01:00"
 authors: ["__McGuinness, LA__", "Warren‐Gash, C", "Moorhouse, LR", "Thomas, SL"]
 draft: false
-featured: true
 image:
   caption: ""
   focal_point: ""

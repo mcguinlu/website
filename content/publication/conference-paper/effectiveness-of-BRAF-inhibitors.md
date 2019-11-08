@@ -3,7 +3,7 @@ categories: []
 date: "2019-10-01T05:14:17+01:00"
 authors: ["Yao, I", "Dawson, S", "Higgins, JPT", "McGuinness, LA", "McAleenan, A", "Kurian, K"]
 draft: false
-featured: false
+featured: true
 image:
   caption: ""
 focal_point: ""
