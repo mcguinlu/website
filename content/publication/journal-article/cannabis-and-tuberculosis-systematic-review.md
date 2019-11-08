@@ -10,6 +10,10 @@ image:
 tags: ["Systematic review"]
 title: Cannabis use and the risk of tuberculosis; a systematic review
 publication: BMC Public Health *19*:1006
-abstract: 
+abstract: "
+
+[Link to article](https://doi.org/10.1186/s12889-019-7127-0)
+
+"
 doi: "10.1186/s12889-019-7127-0"
 ---
