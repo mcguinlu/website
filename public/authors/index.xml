@@ -6,6 +6,7 @@
     <description>Recent content in Authors on Luke A McGuinness</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; Luke A McGuinness {year}</copyright>
     <lastBuildDate>Tue, 01 Oct 2019 05:14:17 +0100</lastBuildDate>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
@@ -129,7 +130,7 @@
     </item>
     
     <item>
-      <title>__McGuinness, LA__</title>
+      <title>__McGuinness LA__</title>
       <link>/authors/__mcguinness-la__/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
@@ -174,7 +175,7 @@
     </item>
     
     <item>
-      <title>López-López, JA</title>
+      <title>López-López JA</title>
       <link>/authors/l%C3%B3pez-l%C3%B3pez-ja/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
