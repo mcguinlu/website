@@ -17,5 +17,6 @@ abstract: "Randomized clinical trials (RCTs) are widely accepted as the gold sta
 
 "
 doi: "10.1001/jamacardio.2018.2267"
+publication_types: ["2"]
 ---
 

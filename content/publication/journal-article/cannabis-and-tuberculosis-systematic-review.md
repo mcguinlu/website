@@ -16,4 +16,5 @@ abstract: "
 
 "
 doi: "10.1186/s12889-019-7127-0"
+publication_types: ["2"]
 ---

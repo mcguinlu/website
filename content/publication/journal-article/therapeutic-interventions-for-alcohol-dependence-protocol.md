@@ -16,4 +16,5 @@ abstract: "
 [Link to article](https://doi.org/10.1186/s13643-017-0462-2)
 "
 doi: "10.1186/s13643-017-0462-2"
+publication_types: ["2"]
 ---

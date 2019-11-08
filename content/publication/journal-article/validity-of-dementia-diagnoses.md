@@ -25,4 +25,5 @@ Conclusion: While heterogenous across studies, reported validity estimates were 
 [Link to article](https://doi.org/10.1002/pds.4669)
 "
 doi: "10.1002/pds.4669"
+publication_types: ["2"]
 ---

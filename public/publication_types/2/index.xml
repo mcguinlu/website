@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Luke A McGuinness</title>
@@ -6,17 +6,53 @@
     <description>Recent content in 2 on Luke A McGuinness</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2019 05:14:17 +0100</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Synthesising quantitative evidence in systematic reviews of complex health interventions</title>
-      <link>/publication/journal-article/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0100</pubDate>
+      <title>Cannabis use and the risk of tuberculosis; a systematic review</title>
+      <link>/publication/journal-article/cannabis-and-tuberculosis-systematic-review/</link>
+      <pubDate>Sat, 27 Jul 2019 05:14:17 +0100</pubDate>
       
-      <guid>/publication/journal-article/</guid>
+      <guid>/publication/journal-article/cannabis-and-tuberculosis-systematic-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesising quantitative evidence in systematic reviews of complex health interventions</title>
+      <link>/publication/journal-article/synthesising-quantitative-evidence-in-systematic-reviews/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/synthesising-quantitative-evidence-in-systematic-reviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The validity of dementia diagnoses in routinely collected electronic health records in the United Kingdom; a systematic review</title>
+      <link>/publication/journal-article/validity-of-dementia-diagnoses/</link>
+      <pubDate>Tue, 22 Jan 2019 05:14:17 +0100</pubDate>
+      
+      <guid>/publication/journal-article/validity-of-dementia-diagnoses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the credibility of non-randomised studies of interventions</title>
+      <link>/publication/journal-article/assessing-the-credibility-of-nrsi-jama-cardio/</link>
+      <pubDate>Mon, 01 Oct 2018 05:14:17 +0100</pubDate>
+      
+      <guid>/publication/journal-article/assessing-the-credibility-of-nrsi-jama-cardio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Therapeutic interventions for alcohol dependence in non-inpatient settings; a systematic review and network meta-analysis (protocol)</title>
+      <link>/publication/journal-article/therapeutic-interventions-for-alcohol-dependence-protocol/</link>
+      <pubDate>Tue, 11 Apr 2017 05:14:17 +0100</pubDate>
+      
+      <guid>/publication/journal-article/therapeutic-interventions-for-alcohol-dependence-protocol/</guid>
       <description></description>
     </item>
     

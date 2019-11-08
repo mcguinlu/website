@@ -15,5 +15,6 @@ abstract: "Public health and health service interventions are typically complex:
 [Link to article](https://doi.org/10.1136/bmjgh-2018-000858)
 "
 doi: "10.1136/bmjgh-2018-000858"
+publication_types: ["2"]
 ---
 
