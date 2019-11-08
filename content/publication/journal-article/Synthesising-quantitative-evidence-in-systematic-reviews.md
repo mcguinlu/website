@@ -1,7 +1,7 @@
 ---
 categories: []
 date: "2019-01-25"
-authors: ["Higgins JPT", "López-López JA", "Becker BJ", "Davies SR", "Dawson S", "Grimshaw JM", "McGuinness LA", "Moore TH", "Rehfuess EA", "Thomas J", "Caldwell DM"]
+authors: ["Higgins JPT", "López-López JA", "Becker BJ", "Davies SR", "Dawson S", "Grimshaw JM", "__McGuinness LA__", "Moore TH", "Rehfuess EA", "Thomas J", "Caldwell DM"]
 draft: false
 image:
   caption: ""

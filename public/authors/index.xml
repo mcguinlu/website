@@ -6,10 +6,91 @@
     <description>Recent content in Authors on Luke A McGuinness</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2019 05:14:17 +0100</lastBuildDate>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>**McGuinness, LA**</title>
+      <link>/authors/mcguinness-la/</link>
+      <pubDate>Sat, 27 Jul 2019 05:14:17 +0100</pubDate>
+      
+      <guid>/authors/mcguinness-la/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ahyow, L</title>
+      <link>/authors/ahyow-l/</link>
+      <pubDate>Sat, 27 Jul 2019 05:14:17 +0100</pubDate>
+      
+      <guid>/authors/ahyow-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beck, C</title>
+      <link>/authors/beck-c/</link>
+      <pubDate>Sat, 27 Jul 2019 05:14:17 +0100</pubDate>
+      
+      <guid>/authors/beck-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coope, C</title>
+      <link>/authors/coope-c/</link>
+      <pubDate>Sat, 27 Jul 2019 05:14:17 +0100</pubDate>
+      
+      <guid>/authors/coope-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>French, C</title>
+      <link>/authors/french-c/</link>
+      <pubDate>Sat, 27 Jul 2019 05:14:17 +0100</pubDate>
+      
+      <guid>/authors/french-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hickman, M</title>
+      <link>/authors/hickman-m/</link>
+      <pubDate>Sat, 27 Jul 2019 05:14:17 +0100</pubDate>
+      
+      <guid>/authors/hickman-m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Newitt, S</title>
+      <link>/authors/newitt-s/</link>
+      <pubDate>Sat, 27 Jul 2019 05:14:17 +0100</pubDate>
+      
+      <guid>/authors/newitt-s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oliver, I</title>
+      <link>/authors/oliver-i/</link>
+      <pubDate>Sat, 27 Jul 2019 05:14:17 +0100</pubDate>
+      
+      <guid>/authors/oliver-i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>__McGuinness, LA__</title>
+      <link>/authors/__mcguinness-la__/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/__mcguinness-la__/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Becker BJ</title>
@@ -57,7 +138,7 @@
     </item>
     
     <item>
-      <title>Higgins, JPT</title>
+      <title>Higgins JPT</title>
       <link>/authors/higgins-jpt/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
@@ -71,15 +152,6 @@
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/l%C3%B3pez-l%C3%B3pez-ja/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>McGuinness, LA</title>
-      <link>/authors/mcguinness-la/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/mcguinness-la/</guid>
       <description></description>
     </item>
     
@@ -143,6 +215,60 @@
       <pubDate>Mon, 01 Oct 2018 05:14:17 +0100</pubDate>
       
       <guid>/authors/sterne-jac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cheng, HY</title>
+      <link>/authors/cheng-hy/</link>
+      <pubDate>Tue, 11 Apr 2017 05:14:17 +0100</pubDate>
+      
+      <guid>/authors/cheng-hy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cowlishaw, S</title>
+      <link>/authors/cowlishaw-s/</link>
+      <pubDate>Tue, 11 Apr 2017 05:14:17 +0100</pubDate>
+      
+      <guid>/authors/cowlishaw-s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elbers, RG</title>
+      <link>/authors/elbers-rg/</link>
+      <pubDate>Tue, 11 Apr 2017 05:14:17 +0100</pubDate>
+      
+      <guid>/authors/elbers-rg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kessler, D</title>
+      <link>/authors/kessler-d/</link>
+      <pubDate>Tue, 11 Apr 2017 05:14:17 +0100</pubDate>
+      
+      <guid>/authors/kessler-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MacArthur, GJ</title>
+      <link>/authors/macarthur-gj/</link>
+      <pubDate>Tue, 11 Apr 2017 05:14:17 +0100</pubDate>
+      
+      <guid>/authors/macarthur-gj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taylor, A</title>
+      <link>/authors/taylor-a/</link>
+      <pubDate>Tue, 11 Apr 2017 05:14:17 +0100</pubDate>
+      
+      <guid>/authors/taylor-a/</guid>
       <description></description>
     </item>
     

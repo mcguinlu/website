@@ -1,7 +1,7 @@
 ---
 categories: []
 date: "2018-10-01T05:14:17+01:00"
-authors: ["McGuinness, LA", "Higgins, JPT", "Sterne, JAC"]
+authors: ["__McGuinness, LA__", "Higgins, JPT", "Sterne, JAC"]
 draft: false
 image:
   caption: ""
