@@ -27,8 +27,8 @@ subtitle = ""
   [content.filters]
     tag = ""
     category = ""
-    publication_type = "2" #Only include journal papers in this section
-    exclude_featured = false
+    publication_type = "" 
+    exclude_featured = true
   
 [design]
   # Toggle between the various page layout types.
