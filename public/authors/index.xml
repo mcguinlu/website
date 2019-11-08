@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Luke A McGuinness</title>
@@ -6,6 +6,7 @@
     <description>Recent content in Authors on Luke A McGuinness</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 25 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -56,18 +57,9 @@
     </item>
     
     <item>
-      <title>Higgins JPT</title>
-      <link>/authors/higgins-jpt/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/higgins-jpt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Higgins, JPT</title>
       <link>/authors/higgins-jpt/</link>
-      <pubDate>Mon, 01 Oct 2018 05:14:17 +0100</pubDate>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/higgins-jpt/</guid>
       <description></description>
@@ -83,18 +75,9 @@
     </item>
     
     <item>
-      <title>McGuinness LA</title>
-      <link>/authors/mcguinness-la/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/mcguinness-la/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>McGuinness, LA</title>
       <link>/authors/mcguinness-la/</link>
-      <pubDate>Tue, 22 Jan 2019 05:14:17 +0100</pubDate>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/mcguinness-la/</guid>
       <description></description>
@@ -110,15 +93,6 @@
     </item>
     
     <item>
-      <title>Moorhouse, LR</title>
-      <link>/authors/moorhouse-lr/</link>
-      <pubDate>Tue, 22 Jan 2019 05:14:17 +0100</pubDate>
-      
-      <guid>/authors/moorhouse-lr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Rehfuess EA</title>
       <link>/authors/rehfuess-ea/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
@@ -128,20 +102,20 @@
     </item>
     
     <item>
-      <title>Sterne, JAC</title>
-      <link>/authors/sterne-jac/</link>
-      <pubDate>Mon, 01 Oct 2018 05:14:17 +0100</pubDate>
-      
-      <guid>/authors/sterne-jac/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Thomas J</title>
       <link>/authors/thomas-j/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/thomas-j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moorhouse, LR</title>
+      <link>/authors/moorhouse-lr/</link>
+      <pubDate>Tue, 22 Jan 2019 05:14:17 +0100</pubDate>
+      
+      <guid>/authors/moorhouse-lr/</guid>
       <description></description>
     </item>
     
@@ -164,11 +138,11 @@
     </item>
     
     <item>
-      <title>admin</title>
-      <link>/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Sterne, JAC</title>
+      <link>/authors/sterne-jac/</link>
+      <pubDate>Mon, 01 Oct 2018 05:14:17 +0100</pubDate>
       
-      <guid>/authors/admin/</guid>
+      <guid>/authors/sterne-jac/</guid>
       <description></description>
     </item>
     

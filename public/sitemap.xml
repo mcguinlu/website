@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
@@ -9,8 +8,140 @@
   
     <url>
     
+      <loc>/</loc>
+      <lastmod>2030-06-01T13:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/talk/</loc>
+      <lastmod>2030-06-01T13:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/post/</loc>
+      <lastmod>2019-11-08T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/post/using-stata-r-and-pushoverr/</loc>
+      <lastmod>2019-11-08T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/</loc>
+      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/becker-bj/</loc>
+      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/caldwell-dm/</loc>
+      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/davies-sr/</loc>
+      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/dawson-s/</loc>
+      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/grimshaw-jm/</loc>
+      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/higgins-jpt/</loc>
+      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/l%C3%B3pez-l%C3%B3pez-ja/</loc>
+      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/mcguinness-la/</loc>
+      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/methods/</loc>
+      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/moore-th/</loc>
+      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/</loc>
+      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/rehfuess-ea/</loc>
+      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>/publication/journal-article/synthesising-quantitative-evidence-in-systematic-reviews/</loc>
       <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/thomas-j/</loc>
+      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/dementia/</loc>
+      <lastmod>2019-01-22T05:14:17+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/moorhouse-lr/</loc>
+      <lastmod>2019-01-22T05:14:17+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/systematic-review/</loc>
+      <lastmod>2019-01-22T05:14:17+01:00</lastmod>
     </url>
   
     <url>
@@ -21,7 +152,37 @@
   
     <url>
     
+      <loc>/authors/thomas-sl/</loc>
+      <lastmod>2019-01-22T05:14:17+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/warrengash-c/</loc>
+      <lastmod>2019-01-22T05:14:17+01:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>/publication/journal-article/assessing-the-credibility-of-nrsi-jama-cardio/</loc>
+      <lastmod>2018-10-01T05:14:17+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/bias/</loc>
+      <lastmod>2018-10-01T05:14:17+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/commentary/</loc>
+      <lastmod>2018-10-01T05:14:17+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/sterne-jac/</loc>
       <lastmod>2018-10-01T05:14:17+01:00</lastmod>
     </url>
   
@@ -45,6 +206,18 @@
   
     <url>
     
+      <loc>/tags/deep-learning/</loc>
+      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/demo/</loc>
+      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>/project/external-project/</loc>
       <lastmod>2016-04-27T00:00:00+01:00</lastmod>
     </url>
@@ -57,254 +230,38 @@
   
     <url>
     
+      <loc>/project/</loc>
+      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>/author/admin/</loc>
     </url>
   
     <url>
     
       <loc>/author/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/authors/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/authors/becker-bj/</loc>
-      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/bias/</loc>
-      <lastmod>2018-10-01T05:14:17+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/authors/caldwell-dm/</loc>
-      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
   
     <url>
     
       <loc>/categories/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/commentary/</loc>
-      <lastmod>2018-10-01T05:14:17+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/authors/davies-sr/</loc>
-      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/authors/dawson-s/</loc>
-      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/dementia/</loc>
-      <lastmod>2019-01-22T05:14:17+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/authors/grimshaw-jm/</loc>
-      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/authors/higgins-jpt/</loc>
-      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/authors/higgins-jpt/</loc>
-      <lastmod>2018-10-01T05:14:17+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2030-06-01T13:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/authors/l%C3%B3pez-l%C3%B3pez-ja/</loc>
-      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/authors/mcguinness-la/</loc>
-      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/authors/mcguinness-la/</loc>
-      <lastmod>2019-01-22T05:14:17+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/methods/</loc>
-      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/authors/moore-th/</loc>
-      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/authors/moorhouse-lr/</loc>
-      <lastmod>2019-01-22T05:14:17+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/post/</loc>
-    </url>
-  
-    <url>
-    
-      <loc>/project/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
-      <priority>0</priority>
     </url>
   
     <url>
     
       <loc>/publication_types/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/publication/</loc>
-      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/talk/</loc>
-      <lastmod>2030-06-01T13:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/authors/rehfuess-ea/</loc>
-      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
   
     <url>
     
       <loc>/slides/</loc>
-      <priority>0</priority>
     </url>
   
     <url>
     
       <loc>/slides/example/</loc>
-    </url>
-  
-    <url>
-    
-      <loc>/authors/sterne-jac/</loc>
-      <lastmod>2018-10-01T05:14:17+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/systematic-review/</loc>
-      <lastmod>2019-01-22T05:14:17+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2018-10-01T05:14:17+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/authors/thomas-j/</loc>
-      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/authors/thomas-sl/</loc>
-      <lastmod>2019-01-22T05:14:17+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/authors/warrengash-c/</loc>
-      <lastmod>2019-01-22T05:14:17+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/authors/admin/</loc>
-      <priority>0</priority>
     </url>
   
 </urlset>
