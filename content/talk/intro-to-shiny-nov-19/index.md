@@ -14,13 +14,13 @@ location: Bristol, United Kingdom
 math: true
 projects:
 publishDate: "2017-01-01T00:00:00Z"
-slides: 
+slides: ""
 summary: An example talk using Academic's Markdown slides feature.
 tags: []
 title: Introduction to Shiny
 url_code: ""
 url_pdf: ""
-url_slides: https://mcguinlu.github.io/slides/intro-to-shiny/teaching-shiny-slides.html
+url_slides: "https://mcguinlu.github.io/slides/intro-to-shiny/teaching-shiny-slides.html"
 url_video: ""
 ---
 
