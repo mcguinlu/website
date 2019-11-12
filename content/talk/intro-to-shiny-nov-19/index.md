@@ -20,7 +20,7 @@ tags: []
 title: Introduction to Shiny
 url_code: ""
 url_pdf: ""
-url_slides: "https://mcguinlu.github.io/slides/intro-to-shiny/teaching-shiny-slides.html"
+url_slides: https://mcguinlu.github.io/slides/intro-to-shiny/teaching-shiny-slides.html
 url_video: ""
 ---
 
