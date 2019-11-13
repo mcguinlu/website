@@ -24,7 +24,6 @@ __TL;DR - This is entirely possible and makes running long Stata scripts much ea
 
 <br>
 <hr>
-<br>
 
 ## __Aims__
 
@@ -36,7 +35,6 @@ As part of this experiment, I wanted to:
 
 <br>
 <hr>
-<br>
 
 ## __Aim #1. Get Stata and R working well together__
 
@@ -296,7 +294,6 @@ This is the best set-up I found that maximises my efficient when developing the 
 
 <br>
 <hr>
-<br>
 
 ## __Final word__
 
