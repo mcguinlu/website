@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on Luke A McGuinness</title>
@@ -6,20 +6,20 @@
     <description>Recent content in R on Luke A McGuinness</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <copyright>&amp;copy; Luke A McGuinness {year}</copyright>
+    <lastBuildDate>Fri, 08 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Using Stata in R with {RStata} and {pushoverr}</title>
+      <link>/post/using-stata-r-and-pushoverr/</link>
+      <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>/post/using-stata-r-and-pushoverr/</guid>
+      <description>I recently took over a project that made use of Stata to perform the analysis and subsequently used R to create plots of the results.
+Inspired by this blogpost from Frederick Solt, I wanted to see if I could set up my project to run start-to-finish from a single script (i.e. could I call Stata efficiently from R to perform the analysis, and then immediately use R to plot the results?</description>
     </item>
     
   </channel>
