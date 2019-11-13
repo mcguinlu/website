@@ -1,25 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 on Luke A McGuinness</title>
-    <link>/publication_types/1/</link>
-    <description>Recent content in 1 on Luke A McGuinness</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Luke A McGuinness {year}</copyright>
-    <lastBuildDate>Tue, 01 Oct 2019 05:14:17 +0100</lastBuildDate>
-    
-	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Effectiveness of BRAF inhibitors in patients with BRAF V600 mutation positive glioma; a systematic review</title>
-      <link>/publication/conference-paper/effectiveness-of-braf-inhibitors/</link>
-      <pubDate>Tue, 01 Oct 2019 05:14:17 +0100</pubDate>
-      
-      <guid>/publication/conference-paper/effectiveness-of-braf-inhibitors/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+  <title>1 on Luke A McGuinness</title>
+  <link>/publication_types/1/</link>
+  <description>Recent content in 1 on Luke A McGuinness</description>
+  <generator>Hugo -- gohugo.io</generator>
+<language>en-us</language>
+<copyright>&amp;copy; Luke A McGuinness {year}</copyright>
+<lastBuildDate>Tue, 01 Oct 2019 05:14:17 +0100</lastBuildDate>
+
+<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+
+
+<item>
+  <title>Effectiveness of BRAF inhibitors in patients with BRAF V600 mutation positive glioma; a systematic review</title>
+  <link>/publication/conference-paper/effectiveness-of-braf-inhibitors/</link>
+  <pubDate>Tue, 01 Oct 2019 05:14:17 +0100</pubDate>
+  
+<guid>/publication/conference-paper/effectiveness-of-braf-inhibitors/</guid>
+  <description></description>
+  </item>
+  
+</channel>
+  </rss>

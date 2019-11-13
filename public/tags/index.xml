@@ -1,124 +1,123 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Luke A McGuinness</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Luke A McGuinness</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Luke A McGuinness {year}</copyright>
-    <lastBuildDate>Tue, 01 Oct 2019 05:14:17 +0100</lastBuildDate>
-    
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Conference</title>
-      <link>/tags/conference/</link>
-      <pubDate>Tue, 01 Oct 2019 05:14:17 +0100</pubDate>
-      
-      <guid>/tags/conference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Systematic review</title>
-      <link>/tags/systematic-review/</link>
-      <pubDate>Tue, 01 Oct 2019 05:14:17 +0100</pubDate>
-      
-      <guid>/tags/systematic-review/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Article</title>
-      <link>/tags/article/</link>
-      <pubDate>Sat, 27 Jul 2019 05:14:17 +0100</pubDate>
-      
-      <guid>/tags/article/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Methods</title>
-      <link>/tags/methods/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/methods/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dementia</title>
-      <link>/tags/dementia/</link>
-      <pubDate>Tue, 22 Jan 2019 05:14:17 +0100</pubDate>
-      
-      <guid>/tags/dementia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bias</title>
-      <link>/tags/bias/</link>
-      <pubDate>Mon, 01 Oct 2018 05:14:17 +0100</pubDate>
-      
-      <guid>/tags/bias/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Commentary</title>
-      <link>/tags/commentary/</link>
-      <pubDate>Mon, 01 Oct 2018 05:14:17 +0100</pubDate>
-      
-      <guid>/tags/commentary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Protocol</title>
-      <link>/tags/protocol/</link>
-      <pubDate>Tue, 11 Apr 2017 05:14:17 +0100</pubDate>
-      
-      <guid>/tags/protocol/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>All</title>
-      <link>/tags/all/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/all/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>App</title>
-      <link>/tags/app/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/app/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visualisation</title>
-      <link>/tags/visualisation/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/visualisation/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+  <title>Tags on Luke A McGuinness</title>
+  <link>/tags/</link>
+  <description>Recent content in Tags on Luke A McGuinness</description>
+  <generator>Hugo -- gohugo.io</generator>
+<language>en-us</language>
+<copyright>&amp;copy; Luke A McGuinness {year}</copyright>
+<lastBuildDate>Tue, 01 Oct 2019 05:14:17 +0100</lastBuildDate>
+
+<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+
+
+<item>
+  <title>Conference</title>
+  <link>/tags/conference/</link>
+  <pubDate>Tue, 01 Oct 2019 05:14:17 +0100</pubDate>
+  
+<guid>/tags/conference/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Systematic review</title>
+  <link>/tags/systematic-review/</link>
+  <pubDate>Tue, 01 Oct 2019 05:14:17 +0100</pubDate>
+  
+<guid>/tags/systematic-review/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Article</title>
+  <link>/tags/article/</link>
+  <pubDate>Sat, 27 Jul 2019 05:14:17 +0100</pubDate>
+  
+<guid>/tags/article/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Methods</title>
+  <link>/tags/methods/</link>
+  <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+  
+<guid>/tags/methods/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Dementia</title>
+  <link>/tags/dementia/</link>
+  <pubDate>Tue, 22 Jan 2019 05:14:17 +0100</pubDate>
+  
+<guid>/tags/dementia/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Bias</title>
+  <link>/tags/bias/</link>
+  <pubDate>Mon, 01 Oct 2018 05:14:17 +0100</pubDate>
+  
+<guid>/tags/bias/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Commentary</title>
+  <link>/tags/commentary/</link>
+  <pubDate>Mon, 01 Oct 2018 05:14:17 +0100</pubDate>
+  
+<guid>/tags/commentary/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Protocol</title>
+  <link>/tags/protocol/</link>
+  <pubDate>Tue, 11 Apr 2017 05:14:17 +0100</pubDate>
+  
+<guid>/tags/protocol/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>All</title>
+  <link>/tags/all/</link>
+  <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+  
+<guid>/tags/all/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>App</title>
+  <link>/tags/app/</link>
+  <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+  
+<guid>/tags/app/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Deep Learning</title>
+  <link>/tags/deep-learning/</link>
+  <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+  
+<guid>/tags/deep-learning/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Visualisation</title>
+  <link>/tags/visualisation/</link>
+  <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+  
+<guid>/tags/visualisation/</guid>
+  <description></description>
+  </item>
+  
+</channel>
+  </rss>

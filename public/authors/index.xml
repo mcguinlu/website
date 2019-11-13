@@ -1,304 +1,303 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Luke A McGuinness</title>
-    <link>/authors/</link>
-    <description>Recent content in Authors on Luke A McGuinness</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Luke A McGuinness {year}</copyright>
-    <lastBuildDate>Tue, 01 Oct 2019 05:14:17 +0100</lastBuildDate>
-    
-	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Dawson, S</title>
-      <link>/authors/dawson-s/</link>
-      <pubDate>Tue, 01 Oct 2019 05:14:17 +0100</pubDate>
-      
-      <guid>/authors/dawson-s/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Higgins, JPT</title>
-      <link>/authors/higgins-jpt/</link>
-      <pubDate>Tue, 01 Oct 2019 05:14:17 +0100</pubDate>
-      
-      <guid>/authors/higgins-jpt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kurian, K</title>
-      <link>/authors/kurian-k/</link>
-      <pubDate>Tue, 01 Oct 2019 05:14:17 +0100</pubDate>
-      
-      <guid>/authors/kurian-k/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>McAleenan, A</title>
-      <link>/authors/mcaleenan-a/</link>
-      <pubDate>Tue, 01 Oct 2019 05:14:17 +0100</pubDate>
-      
-      <guid>/authors/mcaleenan-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>McGuinness, LA</title>
-      <link>/authors/mcguinness-la/</link>
-      <pubDate>Tue, 01 Oct 2019 05:14:17 +0100</pubDate>
-      
-      <guid>/authors/mcguinness-la/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yao, I</title>
-      <link>/authors/yao-i/</link>
-      <pubDate>Tue, 01 Oct 2019 05:14:17 +0100</pubDate>
-      
-      <guid>/authors/yao-i/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ahyow, L</title>
-      <link>/authors/ahyow-l/</link>
-      <pubDate>Sat, 27 Jul 2019 05:14:17 +0100</pubDate>
-      
-      <guid>/authors/ahyow-l/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Beck, C</title>
-      <link>/authors/beck-c/</link>
-      <pubDate>Sat, 27 Jul 2019 05:14:17 +0100</pubDate>
-      
-      <guid>/authors/beck-c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Coope, C</title>
-      <link>/authors/coope-c/</link>
-      <pubDate>Sat, 27 Jul 2019 05:14:17 +0100</pubDate>
-      
-      <guid>/authors/coope-c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>French, C</title>
-      <link>/authors/french-c/</link>
-      <pubDate>Sat, 27 Jul 2019 05:14:17 +0100</pubDate>
-      
-      <guid>/authors/french-c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hickman, M</title>
-      <link>/authors/hickman-m/</link>
-      <pubDate>Sat, 27 Jul 2019 05:14:17 +0100</pubDate>
-      
-      <guid>/authors/hickman-m/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Newitt, S</title>
-      <link>/authors/newitt-s/</link>
-      <pubDate>Sat, 27 Jul 2019 05:14:17 +0100</pubDate>
-      
-      <guid>/authors/newitt-s/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Oliver, I</title>
-      <link>/authors/oliver-i/</link>
-      <pubDate>Sat, 27 Jul 2019 05:14:17 +0100</pubDate>
-      
-      <guid>/authors/oliver-i/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>__McGuinness, LA__</title>
-      <link>/authors/__mcguinness-la__/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/__mcguinness-la__/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Becker BJ</title>
-      <link>/authors/becker-bj/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/becker-bj/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Caldwell DM</title>
-      <link>/authors/caldwell-dm/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/caldwell-dm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Davies SR</title>
-      <link>/authors/davies-sr/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/davies-sr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Grimshaw JM</title>
-      <link>/authors/grimshaw-jm/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/grimshaw-jm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>López-López JA</title>
-      <link>/authors/l%C3%B3pez-l%C3%B3pez-ja/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/l%C3%B3pez-l%C3%B3pez-ja/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Moore TH</title>
-      <link>/authors/moore-th/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/moore-th/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rehfuess EA</title>
-      <link>/authors/rehfuess-ea/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/rehfuess-ea/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thomas J</title>
-      <link>/authors/thomas-j/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/thomas-j/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Moorhouse, LR</title>
-      <link>/authors/moorhouse-lr/</link>
-      <pubDate>Tue, 22 Jan 2019 05:14:17 +0100</pubDate>
-      
-      <guid>/authors/moorhouse-lr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thomas, SL</title>
-      <link>/authors/thomas-sl/</link>
-      <pubDate>Tue, 22 Jan 2019 05:14:17 +0100</pubDate>
-      
-      <guid>/authors/thomas-sl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Warren‐Gash, C</title>
-      <link>/authors/warrengash-c/</link>
-      <pubDate>Tue, 22 Jan 2019 05:14:17 +0100</pubDate>
-      
-      <guid>/authors/warrengash-c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sterne, JAC</title>
-      <link>/authors/sterne-jac/</link>
-      <pubDate>Mon, 01 Oct 2018 05:14:17 +0100</pubDate>
-      
-      <guid>/authors/sterne-jac/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cheng, HY</title>
-      <link>/authors/cheng-hy/</link>
-      <pubDate>Tue, 11 Apr 2017 05:14:17 +0100</pubDate>
-      
-      <guid>/authors/cheng-hy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cowlishaw, S</title>
-      <link>/authors/cowlishaw-s/</link>
-      <pubDate>Tue, 11 Apr 2017 05:14:17 +0100</pubDate>
-      
-      <guid>/authors/cowlishaw-s/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Elbers, RG</title>
-      <link>/authors/elbers-rg/</link>
-      <pubDate>Tue, 11 Apr 2017 05:14:17 +0100</pubDate>
-      
-      <guid>/authors/elbers-rg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kessler, D</title>
-      <link>/authors/kessler-d/</link>
-      <pubDate>Tue, 11 Apr 2017 05:14:17 +0100</pubDate>
-      
-      <guid>/authors/kessler-d/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MacArthur, GJ</title>
-      <link>/authors/macarthur-gj/</link>
-      <pubDate>Tue, 11 Apr 2017 05:14:17 +0100</pubDate>
-      
-      <guid>/authors/macarthur-gj/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Taylor, A</title>
-      <link>/authors/taylor-a/</link>
-      <pubDate>Tue, 11 Apr 2017 05:14:17 +0100</pubDate>
-      
-      <guid>/authors/taylor-a/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+  <title>Authors on Luke A McGuinness</title>
+  <link>/authors/</link>
+  <description>Recent content in Authors on Luke A McGuinness</description>
+  <generator>Hugo -- gohugo.io</generator>
+<language>en-us</language>
+<copyright>&amp;copy; Luke A McGuinness {year}</copyright>
+<lastBuildDate>Tue, 01 Oct 2019 05:14:17 +0100</lastBuildDate>
+
+<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+
+
+<item>
+  <title>Dawson, S</title>
+  <link>/authors/dawson-s/</link>
+  <pubDate>Tue, 01 Oct 2019 05:14:17 +0100</pubDate>
+  
+<guid>/authors/dawson-s/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Higgins, JPT</title>
+  <link>/authors/higgins-jpt/</link>
+  <pubDate>Tue, 01 Oct 2019 05:14:17 +0100</pubDate>
+  
+<guid>/authors/higgins-jpt/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Kurian, K</title>
+  <link>/authors/kurian-k/</link>
+  <pubDate>Tue, 01 Oct 2019 05:14:17 +0100</pubDate>
+  
+<guid>/authors/kurian-k/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>McAleenan, A</title>
+  <link>/authors/mcaleenan-a/</link>
+  <pubDate>Tue, 01 Oct 2019 05:14:17 +0100</pubDate>
+  
+<guid>/authors/mcaleenan-a/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>McGuinness, LA</title>
+  <link>/authors/mcguinness-la/</link>
+  <pubDate>Tue, 01 Oct 2019 05:14:17 +0100</pubDate>
+  
+<guid>/authors/mcguinness-la/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Yao, I</title>
+  <link>/authors/yao-i/</link>
+  <pubDate>Tue, 01 Oct 2019 05:14:17 +0100</pubDate>
+  
+<guid>/authors/yao-i/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Ahyow, L</title>
+  <link>/authors/ahyow-l/</link>
+  <pubDate>Sat, 27 Jul 2019 05:14:17 +0100</pubDate>
+  
+<guid>/authors/ahyow-l/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Beck, C</title>
+  <link>/authors/beck-c/</link>
+  <pubDate>Sat, 27 Jul 2019 05:14:17 +0100</pubDate>
+  
+<guid>/authors/beck-c/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Coope, C</title>
+  <link>/authors/coope-c/</link>
+  <pubDate>Sat, 27 Jul 2019 05:14:17 +0100</pubDate>
+  
+<guid>/authors/coope-c/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>French, C</title>
+  <link>/authors/french-c/</link>
+  <pubDate>Sat, 27 Jul 2019 05:14:17 +0100</pubDate>
+  
+<guid>/authors/french-c/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Hickman, M</title>
+  <link>/authors/hickman-m/</link>
+  <pubDate>Sat, 27 Jul 2019 05:14:17 +0100</pubDate>
+  
+<guid>/authors/hickman-m/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Newitt, S</title>
+  <link>/authors/newitt-s/</link>
+  <pubDate>Sat, 27 Jul 2019 05:14:17 +0100</pubDate>
+  
+<guid>/authors/newitt-s/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Oliver, I</title>
+  <link>/authors/oliver-i/</link>
+  <pubDate>Sat, 27 Jul 2019 05:14:17 +0100</pubDate>
+  
+<guid>/authors/oliver-i/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>__McGuinness LA__</title>
+  <link>/authors/__mcguinness-la__/</link>
+  <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+  
+<guid>/authors/__mcguinness-la__/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Becker BJ</title>
+  <link>/authors/becker-bj/</link>
+  <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+  
+<guid>/authors/becker-bj/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Caldwell DM</title>
+  <link>/authors/caldwell-dm/</link>
+  <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+  
+<guid>/authors/caldwell-dm/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Davies SR</title>
+  <link>/authors/davies-sr/</link>
+  <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+  
+<guid>/authors/davies-sr/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Grimshaw JM</title>
+  <link>/authors/grimshaw-jm/</link>
+  <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+  
+<guid>/authors/grimshaw-jm/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>López-López JA</title>
+  <link>/authors/l%C3%B3pez-l%C3%B3pez-ja/</link>
+  <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+  
+<guid>/authors/l%C3%B3pez-l%C3%B3pez-ja/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Moore TH</title>
+  <link>/authors/moore-th/</link>
+  <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+  
+<guid>/authors/moore-th/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Rehfuess EA</title>
+  <link>/authors/rehfuess-ea/</link>
+  <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+  
+<guid>/authors/rehfuess-ea/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Thomas J</title>
+  <link>/authors/thomas-j/</link>
+  <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+  
+<guid>/authors/thomas-j/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Moorhouse, LR</title>
+  <link>/authors/moorhouse-lr/</link>
+  <pubDate>Tue, 22 Jan 2019 05:14:17 +0100</pubDate>
+  
+<guid>/authors/moorhouse-lr/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Thomas, SL</title>
+  <link>/authors/thomas-sl/</link>
+  <pubDate>Tue, 22 Jan 2019 05:14:17 +0100</pubDate>
+  
+<guid>/authors/thomas-sl/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Warren‐Gash, C</title>
+  <link>/authors/warrengash-c/</link>
+  <pubDate>Tue, 22 Jan 2019 05:14:17 +0100</pubDate>
+  
+<guid>/authors/warrengash-c/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Sterne, JAC</title>
+  <link>/authors/sterne-jac/</link>
+  <pubDate>Mon, 01 Oct 2018 05:14:17 +0100</pubDate>
+  
+<guid>/authors/sterne-jac/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Cheng, HY</title>
+  <link>/authors/cheng-hy/</link>
+  <pubDate>Tue, 11 Apr 2017 05:14:17 +0100</pubDate>
+  
+<guid>/authors/cheng-hy/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Cowlishaw, S</title>
+  <link>/authors/cowlishaw-s/</link>
+  <pubDate>Tue, 11 Apr 2017 05:14:17 +0100</pubDate>
+  
+<guid>/authors/cowlishaw-s/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Elbers, RG</title>
+  <link>/authors/elbers-rg/</link>
+  <pubDate>Tue, 11 Apr 2017 05:14:17 +0100</pubDate>
+  
+<guid>/authors/elbers-rg/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Kessler, D</title>
+  <link>/authors/kessler-d/</link>
+  <pubDate>Tue, 11 Apr 2017 05:14:17 +0100</pubDate>
+  
+<guid>/authors/kessler-d/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>MacArthur, GJ</title>
+  <link>/authors/macarthur-gj/</link>
+  <pubDate>Tue, 11 Apr 2017 05:14:17 +0100</pubDate>
+  
+<guid>/authors/macarthur-gj/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Taylor, A</title>
+  <link>/authors/taylor-a/</link>
+  <pubDate>Tue, 11 Apr 2017 05:14:17 +0100</pubDate>
+  
+<guid>/authors/taylor-a/</guid>
+  <description></description>
+  </item>
+  
+</channel>
+  </rss>

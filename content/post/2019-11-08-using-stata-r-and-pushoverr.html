@@ -15,9 +15,7 @@ image:
 <p>I recently took over a project that made use of Stata to perform the analysis and subsequently used R to create plots of the results.</p>
 <p>Inspired by this <a href="https://fsolt.org/blog/2018/08/15/switch-to-r.html">blogpost</a> from Frederick Solt, I wanted to see if I could set up my project to run start-to-finish from a single script (i.e. could I call Stata efficiently from R to perform the analysis, and then immediately use R to plot the results?) and have R notify me when it was complete.</p>
 <p><strong>TL;DR - This is entirely possible and makes running long Stata scripts much easier (&amp; more fun?).</strong></p>
-<br>
 <hr>
-<p><br></p>
 <div id="aims" class="section level2">
 <h2><strong>Aims</strong></h2>
 <p>As part of this experiment, I wanted to:</p>
@@ -25,9 +23,7 @@ image:
 <li><p>get Stata and R working well together; and</p></li>
 <li><p>send a notification to my phone when a long running Stata script was complete.</p></li>
 </ol>
-<br>
 <hr>
-<p><br></p>
 </div>
 <div id="aim-1.-get-stata-and-r-working-well-together" class="section level2">
 <h2><strong>Aim #1. Get Stata and R working well together</strong></h2>
@@ -135,7 +131,6 @@ image:
                 stata.echo = TRUE)</code></pre>
 <br>
 <hr>
-<p><br></p>
 </div>
 </div>
 <div id="aim-2.-send-a-notification-to-my-phone-when-a-long-running-stata-script-is-complete." class="section level2">
@@ -226,9 +221,7 @@ image:
 <p>I was showing this set-up to a colleague who asked why I needed a <code>master.R</code> file at all, in other words why not just have the <code>Config - R.R</code> file call Stata and send the <code>pushoverr</code> notifications?</p>
 <p>The primary reason for this is that it is an effort to lower the effort required to reproduce the analysis. Both <code>master.R</code> and <code>pushover.R</code> were added to <code>.gitignore</code> and do not appear in the GitHub repo for this project. This removes the need for users to try and set-up <code>RStata</code> and <code>pushoverr</code> by encouraging them to run the <code>Config</code> files themselves in sequence.</p>
 <p>This is the best set-up I found that maximises my efficient when developing the project but also maintains the ease of reproducibility by removing dependencies on hard-to-configure packages.</p>
-<br>
 <hr>
-<p><br></p>
 </div>
 </div>
 <div id="final-word" class="section level2">

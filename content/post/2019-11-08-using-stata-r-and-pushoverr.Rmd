@@ -22,7 +22,6 @@ Inspired by this [blogpost](https://fsolt.org/blog/2018/08/15/switch-to-r.html) 
 
 __TL;DR - This is entirely possible and makes running long Stata scripts much easier (& more fun?).__
 
-<br>
 <hr>
 
 ## __Aims__
@@ -33,7 +32,6 @@ As part of this experiment, I wanted to:
 
 2. send a notification to my phone when a long running Stata script was complete.
 
-<br>
 <hr>
 
 ## __Aim #1. Get Stata and R working well together__
@@ -170,8 +168,6 @@ Essentially, it turns out that R isn't great at dealing with arbitrary URIs for 
 ```
 <br>
 <hr>
-<br>
-
 
 ## __Aim #2. Send a notification to my phone when a long running Stata script is complete.__
 
@@ -292,7 +288,6 @@ The primary reason for this is that it is an effort to lower the effort required
 
 This is the best set-up I found that maximises my efficient when developing the project but also maintains the ease of reproducibility by removing dependencies on hard-to-configure packages.
 
-<br>
 <hr>
 
 ## __Final word__
