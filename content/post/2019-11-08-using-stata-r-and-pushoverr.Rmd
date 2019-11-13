@@ -1,6 +1,6 @@
 ---
 title: Using Stata in R with {RStata} and {pushoverr}
-author: Luke McGuiinness
+author: Luke McGuinness
 date: '2019-11-08'
 slug: using-stata-r-and-pushoverr
 categories: ["Blog-R"]
