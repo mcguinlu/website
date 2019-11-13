@@ -4,7 +4,7 @@ author: Luke McGuinness
 date: '2019-11-08'
 slug: using-stata-r-and-pushoverr
 categories: ["Blog-R"]
-tags: [""]
+tags: []
 image:
   caption: ''
   focal_point: ''
