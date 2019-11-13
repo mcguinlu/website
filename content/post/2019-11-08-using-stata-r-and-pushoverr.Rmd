@@ -58,34 +58,34 @@ For example, the `Config - STATA.do` file set the necessary global paths and the
 ```{r}
 # Config - STATA.do
 
-  * Set global paths -------------------------------------------------------------
+  * Set global paths -----------------------------------------------------------
     
   global path "path/to/project/folder"
   global dofiles "$path/code"
   global output "$path/output"
   global data "$path/data"
   
-  * Run dictionary ---------------------------------------------------------------
+  * Run dictionary -------------------------------------------------------------
   
   run "$dofiles/codedict.do"
   
-  * Generate cohort --------------------------------------------------------------
-  
+  * Generate cohort ------------------------------------------------------------
+
   run "$dofiles/cohort2.do"
   
-  * Add covariates (Note: cov.do requires cov_*.do) ------------------------------
+  * Add covariates (Note: cov.do requires cov_*.do) ----------------------------
   
   run "$dofiles/cov2.do"
   
-  * Generate data for Table 1 ----------------------------------------------------
+  * Generate data for Table 1 --------------------------------------------------
   
   run "$dofiles/toc.do"
   
-  * Generate data on missing covariate information -------------------------------
+  * Generate data on missing covariate information -----------------------------
   
   run "$dofiles/missingdata.do"
   
-  * Run Cox regression analysis --------------------------------------------------
+  * Run Cox regression analysis ------------------------------------------------
   
   run "$dofiles/analysis2.do"
 ```
@@ -97,10 +97,10 @@ Similarly , the `Config - R.R` file loaded the necessary libraries and then sour
 ```{r}
 # Config- R.R
 
-  # Setup ========================================================================
+  # Setup ======================================================================
   library(ggplot2)
   
-  # Plot analysis results ========================================================
+  # Plot analysis results ======================================================
   
   source("code/plot_cohort2_attrition.R")
   
@@ -229,12 +229,12 @@ I combined this with a `pushoverr`  so that it would now send me a message telli
 ```{r}
 # master.R - Version 3
   
-  # Setup ========================================================================
+  # Setup ======================================================================
   source("code/pushover.R")
   
   push_clean() # Remove pushoverr indicator file
   
-  # Analysis =====================================================================
+  # Analysis ===================================================================
   RStata::stata("Config - Stata.do",
                 stata.path = "\"A:\\Stata\\Stata15_MP\\StataMP-64\"",
                 stata.version = 15,
@@ -242,7 +242,7 @@ I combined this with a `pushoverr`  so that it would now send me a message telli
   
   push_analysis() # Send pushoverr notification to phone on analysis status
   
-  # Plot main analysis results ===================================================
+  # Plot main analysis results =================================================
   source("Config - R.R")
   
   push_plotting() # Send pushoverr notification to phone on plotting status

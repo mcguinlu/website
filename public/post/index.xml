@@ -52,44 +52,44 @@
 &lt;p&gt;&lt;a id=&#34;stata-basic&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# Config - STATA.do
 
-  * Set global paths -------------------------------------------------------------
+  * Set global paths -----------------------------------------------------------
     
   global path &amp;quot;path/to/project/folder&amp;quot;
   global dofiles &amp;quot;$path/code&amp;quot;
   global output &amp;quot;$path/output&amp;quot;
   global data &amp;quot;$path/data&amp;quot;
   
-  * Run dictionary ---------------------------------------------------------------
+  * Run dictionary -------------------------------------------------------------
   
   run &amp;quot;$dofiles/codedict.do&amp;quot;
   
-  * Generate cohort --------------------------------------------------------------
-  
+  * Generate cohort ------------------------------------------------------------
+
   run &amp;quot;$dofiles/cohort2.do&amp;quot;
   
-  * Add covariates (Note: cov.do requires cov_*.do) ------------------------------
+  * Add covariates (Note: cov.do requires cov_*.do) ----------------------------
   
   run &amp;quot;$dofiles/cov2.do&amp;quot;
   
-  * Generate data for Table 1 ----------------------------------------------------
+  * Generate data for Table 1 --------------------------------------------------
   
   run &amp;quot;$dofiles/toc.do&amp;quot;
   
-  * Generate data on missing covariate information -------------------------------
+  * Generate data on missing covariate information -----------------------------
   
   run &amp;quot;$dofiles/missingdata.do&amp;quot;
   
-  * Run Cox regression analysis --------------------------------------------------
+  * Run Cox regression analysis ------------------------------------------------
   
   run &amp;quot;$dofiles/analysis2.do&amp;quot;&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Similarly , the &lt;code&gt;Config - R.R&lt;/code&gt; file loaded the necessary libraries and then sourced the scripts to build the three plots.&lt;/p&gt;
 &lt;p&gt;&lt;a id=&#34;r-basic&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# Config- R.R
 
-  # Setup ========================================================================
+  # Setup ======================================================================
   library(ggplot2)
   
-  # Plot analysis results ========================================================
+  # Plot analysis results ======================================================
   
   source(&amp;quot;code/plot_cohort2_attrition.R&amp;quot;)
   
@@ -180,12 +180,12 @@
 &lt;p&gt;&lt;a id=&#34;master-3&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# master.R - Version 3
   
-  # Setup ========================================================================
+  # Setup ======================================================================
   source(&amp;quot;code/pushover.R&amp;quot;)
   
   push_clean() # Remove pushoverr indicator file
   
-  # Analysis =====================================================================
+  # Analysis ===================================================================
   RStata::stata(&amp;quot;Config - Stata.do&amp;quot;,
                 stata.path = &amp;quot;\&amp;quot;A:\\Stata\\Stata15_MP\\StataMP-64\&amp;quot;&amp;quot;,
                 stata.version = 15,
@@ -193,7 +193,7 @@
   
   push_analysis() # Send pushoverr notification to phone on analysis status
   
-  # Plot main analysis results ===================================================
+  # Plot main analysis results =================================================
   source(&amp;quot;Config - R.R&amp;quot;)
   
   push_plotting() # Send pushoverr notification to phone on plotting status&lt;/code&gt;&lt;/pre&gt;

@@ -44,44 +44,44 @@ image:
 <p><a id="stata-basic"></a></p>
 <pre class="r"><code># Config - STATA.do
 
-  * Set global paths -------------------------------------------------------------
+  * Set global paths -----------------------------------------------------------
     
   global path &quot;path/to/project/folder&quot;
   global dofiles &quot;$path/code&quot;
   global output &quot;$path/output&quot;
   global data &quot;$path/data&quot;
   
-  * Run dictionary ---------------------------------------------------------------
+  * Run dictionary -------------------------------------------------------------
   
   run &quot;$dofiles/codedict.do&quot;
   
-  * Generate cohort --------------------------------------------------------------
-  
+  * Generate cohort ------------------------------------------------------------
+
   run &quot;$dofiles/cohort2.do&quot;
   
-  * Add covariates (Note: cov.do requires cov_*.do) ------------------------------
+  * Add covariates (Note: cov.do requires cov_*.do) ----------------------------
   
   run &quot;$dofiles/cov2.do&quot;
   
-  * Generate data for Table 1 ----------------------------------------------------
+  * Generate data for Table 1 --------------------------------------------------
   
   run &quot;$dofiles/toc.do&quot;
   
-  * Generate data on missing covariate information -------------------------------
+  * Generate data on missing covariate information -----------------------------
   
   run &quot;$dofiles/missingdata.do&quot;
   
-  * Run Cox regression analysis --------------------------------------------------
+  * Run Cox regression analysis ------------------------------------------------
   
   run &quot;$dofiles/analysis2.do&quot;</code></pre>
 <p>Similarly , the <code>Config - R.R</code> file loaded the necessary libraries and then sourced the scripts to build the three plots.</p>
 <p><a id="r-basic"></a></p>
 <pre class="r"><code># Config- R.R
 
-  # Setup ========================================================================
+  # Setup ======================================================================
   library(ggplot2)
   
-  # Plot analysis results ========================================================
+  # Plot analysis results ======================================================
   
   source(&quot;code/plot_cohort2_attrition.R&quot;)
   
@@ -172,12 +172,12 @@ image:
 <p><a id="master-3"></a></p>
 <pre class="r"><code># master.R - Version 3
   
-  # Setup ========================================================================
+  # Setup ======================================================================
   source(&quot;code/pushover.R&quot;)
   
   push_clean() # Remove pushoverr indicator file
   
-  # Analysis =====================================================================
+  # Analysis ===================================================================
   RStata::stata(&quot;Config - Stata.do&quot;,
                 stata.path = &quot;\&quot;A:\\Stata\\Stata15_MP\\StataMP-64\&quot;&quot;,
                 stata.version = 15,
@@ -185,7 +185,7 @@ image:
   
   push_analysis() # Send pushoverr notification to phone on analysis status
   
-  # Plot main analysis results ===================================================
+  # Plot main analysis results =================================================
   source(&quot;Config - R.R&quot;)
   
   push_plotting() # Send pushoverr notification to phone on plotting status</code></pre>
