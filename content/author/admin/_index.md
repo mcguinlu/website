@@ -24,18 +24,18 @@ organizations:
   url: ""
 role: NIHR Doctoral Research Fellow 
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:luke.mcguinness@bristol.ac.uk'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/mcguinlu
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/mcguinlu
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/mcguinlu
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=AOkQTXQAAAAJ
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:luke.mcguinness@bristol.ac.uk'
 superuser: true
 user_groups:
 - Researchers

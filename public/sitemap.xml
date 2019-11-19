@@ -2,13 +2,49 @@
   
     <url>
     
-      <loc>/talk/intro-to-shiny-nov-19/</loc>
-      <lastmod>2019-11-15T13:00:00+01:00</lastmod>
+      <loc>/categories/blog-r/</loc>
+      <lastmod>2019-11-18T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/categories/</loc>
+      <lastmod>2019-11-18T00:00:00+00:00</lastmod>
     </url>
   
     <url>
     
       <loc>/</loc>
+      <lastmod>2019-11-18T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/methods/</loc>
+      <lastmod>2019-11-18T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/post/</loc>
+      <lastmod>2019-11-18T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2019-11-18T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/post/devtools-vs-drat/</loc>
+      <lastmod>2019-11-18T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/talk/intro-to-shiny-nov-19/</loc>
       <lastmod>2019-11-15T13:00:00+01:00</lastmod>
     </url>
   
@@ -16,24 +52,6 @@
     
       <loc>/talk/</loc>
       <lastmod>2019-11-15T13:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/categories/blog-r/</loc>
-      <lastmod>2019-11-08T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/categories/</loc>
-      <lastmod>2019-11-08T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/post/</loc>
-      <lastmod>2019-11-08T00:00:00+00:00</lastmod>
     </url>
   
     <url>
@@ -111,12 +129,6 @@
     <url>
     
       <loc>/tags/systematic-review/</loc>
-      <lastmod>2019-10-01T05:14:17+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/</loc>
       <lastmod>2019-10-01T05:14:17+01:00</lastmod>
     </url>
   
@@ -219,12 +231,6 @@
     <url>
     
       <loc>/authors/l%C3%B3pez-l%C3%B3pez-ja/</loc>
-      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/methods/</loc>
       <lastmod>2019-01-25T00:00:00+00:00</lastmod>
     </url>
   

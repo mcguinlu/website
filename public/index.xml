@@ -6,8 +6,18 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Luke A McGuinness {year}</copyright>
-    <lastBuildDate>Fri, 15 Nov 2019 13:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Posts</title>
+      <link>/post/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/</guid>
+      <description>&lt;p&gt;For more blogs on R, visit &lt;a href=&#34;https://rweekly.org&#34; target=&#34;_blank&#34;&gt;RWeekly&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://www.r-bloggers.com/&#34; target=&#34;_blank&#34;&gt;R-bloggers&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
@@ -15,15 +25,6 @@
       <pubDate>Fri, 15 Nov 2019 13:00:00 +0100</pubDate>
       
       <guid>/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>/post/</link>
-      <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/</guid>
       <description></description>
     </item>
     
