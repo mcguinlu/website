@@ -6,24 +6,11 @@
   <generator>Hugo -- gohugo.io</generator>
 <language>en-us</language>
 <copyright>&amp;copy; Luke A McGuinness {year}</copyright>
-<lastBuildDate>Mon, 18 Nov 2019 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 08 Nov 2019 00:00:00 +0000</lastBuildDate>
 
 <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
 
 
-<item>
-  <title>{devtools} vs {drat}</title>
-  <link>/post/devtools-vs-drat/</link>
-  <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
-  
-<guid>/post/devtools-vs-drat/</guid>
-  <description>
-
-
-
-</description>
-  </item>
-  
 <item>
   <title>Using Stata in R with {RStata} and {pushoverr}</title>
   <link>/post/using-stata-r-and-pushoverr/</link>

@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 3  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "A collection of current and past projects, including several Shiny apps"
 
 [content]
   # Page type to display. E.g. project.
@@ -24,27 +24,28 @@ subtitle = ""
   [[content.filter_button]]
     name = "All"
     tag = "All"
+    
+  [[content.filter_button]]
+    name = "Shiny Apps"
+    tag = "App"
   
   [[content.filter_button]]
     name = "Visualisation"
     tag = "Visualisation"
   
-  [[content.filter_button]]
-    name = "Apps"
-    tag = "App"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 5
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+  flip_alt_rows = true
 
 [design.background]
   # Apply a background color, gradient, or image.

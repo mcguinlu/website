@@ -17,6 +17,7 @@ email: "luke.mcguinness@bristol.ac.uk"
 interests:
 - Dementia epidemiology
 - Evidence synthesis methods
+- Developing R packages and Shiny web-apps
 - Open science
 name: Luke McGuinness
 organizations:
@@ -24,6 +25,9 @@ organizations:
   url: ""
 role: NIHR Doctoral Research Fellow 
 social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:luke.mcguinness@bristol.ac.uk'
 - icon: github
   icon_pack: fab
   link: https://github.com/mcguinlu
@@ -33,9 +37,6 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=AOkQTXQAAAAJ
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:luke.mcguinness@bristol.ac.uk'
 superuser: true
 user_groups:
 - Researchers

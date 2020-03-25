@@ -2,44 +2,56 @@
   
     <url>
     
-      <loc>/categories/blog-r/</loc>
-      <lastmod>2019-11-18T00:00:00+00:00</lastmod>
+      <loc>/project/abcd/</loc>
+      <lastmod>2020-03-25T00:00:00+01:00</lastmod>
     </url>
   
     <url>
     
-      <loc>/categories/</loc>
-      <lastmod>2019-11-18T00:00:00+00:00</lastmod>
+      <loc>/tags/all/</loc>
+      <lastmod>2020-03-25T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/app/</loc>
+      <lastmod>2020-03-25T00:00:00+01:00</lastmod>
     </url>
   
     <url>
     
       <loc>/</loc>
-      <lastmod>2019-11-18T00:00:00+00:00</lastmod>
+      <lastmod>2020-03-25T00:00:00+01:00</lastmod>
     </url>
   
     <url>
     
-      <loc>/tags/methods/</loc>
-      <lastmod>2019-11-18T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/post/</loc>
-      <lastmod>2019-11-18T00:00:00+00:00</lastmod>
+      <loc>/project/</loc>
+      <lastmod>2020-03-25T00:00:00+01:00</lastmod>
     </url>
   
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2019-11-18T00:00:00+00:00</lastmod>
+      <lastmod>2020-03-25T00:00:00+01:00</lastmod>
     </url>
   
     <url>
     
-      <loc>/post/devtools-vs-drat/</loc>
-      <lastmod>2019-11-18T00:00:00+00:00</lastmod>
+      <loc>/tags/visualisation/</loc>
+      <lastmod>2020-03-25T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/citation-management/</loc>
+      <lastmod>2020-03-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/project/medrxivr/</loc>
+      <lastmod>2020-03-01T00:00:00+01:00</lastmod>
     </url>
   
     <url>
@@ -52,6 +64,24 @@
     
       <loc>/talk/</loc>
       <lastmod>2019-11-15T13:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/categories/blog-r/</loc>
+      <lastmod>2019-11-08T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/categories/</loc>
+      <lastmod>2019-11-08T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/post/</loc>
+      <lastmod>2019-11-08T00:00:00+00:00</lastmod>
     </url>
   
     <url>
@@ -236,6 +266,12 @@
   
     <url>
     
+      <loc>/tags/methods/</loc>
+      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>/authors/moore-th/</loc>
       <lastmod>2019-01-25T00:00:00+00:00</lastmod>
     </url>
@@ -380,44 +416,20 @@
   
     <url>
     
-      <loc>/tags/all/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/app/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/project/internal-project/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/project/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
       <loc>/project/robvis/</loc>
       <lastmod>2016-04-27T00:00:00+01:00</lastmod>
     </url>
   
     <url>
     
-      <loc>/tags/visualisation/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+      <loc>/tags/deep-learning/</loc>
+      <lastmod>2016-04-26T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/project/internal-project/</loc>
+      <lastmod>2016-04-26T00:00:00+01:00</lastmod>
     </url>
   
     <url>

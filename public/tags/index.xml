@@ -6,17 +6,44 @@
   <generator>Hugo -- gohugo.io</generator>
 <language>en-us</language>
 <copyright>&amp;copy; Luke A McGuinness {year}</copyright>
-<lastBuildDate>Mon, 18 Nov 2019 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Mar 2020 00:00:00 +0100</lastBuildDate>
 
 <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
 
 
 <item>
-  <title>Methods</title>
-  <link>/tags/methods/</link>
-  <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+  <title>All</title>
+  <link>/tags/all/</link>
+  <pubDate>Wed, 25 Mar 2020 00:00:00 +0100</pubDate>
   
-<guid>/tags/methods/</guid>
+<guid>/tags/all/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>App</title>
+  <link>/tags/app/</link>
+  <pubDate>Wed, 25 Mar 2020 00:00:00 +0100</pubDate>
+  
+<guid>/tags/app/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Visualisation</title>
+  <link>/tags/visualisation/</link>
+  <pubDate>Wed, 25 Mar 2020 00:00:00 +0100</pubDate>
+  
+<guid>/tags/visualisation/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Citation management</title>
+  <link>/tags/citation-management/</link>
+  <pubDate>Sun, 01 Mar 2020 00:00:00 +0100</pubDate>
+  
+<guid>/tags/citation-management/</guid>
   <description></description>
   </item>
   
@@ -44,6 +71,15 @@
   <pubDate>Sat, 27 Jul 2019 05:14:17 +0100</pubDate>
   
 <guid>/tags/article/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Methods</title>
+  <link>/tags/methods/</link>
+  <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+  
+<guid>/tags/methods/</guid>
   <description></description>
   </item>
   
@@ -84,38 +120,11 @@
   </item>
   
 <item>
-  <title>All</title>
-  <link>/tags/all/</link>
-  <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
-  
-<guid>/tags/all/</guid>
-  <description></description>
-  </item>
-  
-<item>
-  <title>App</title>
-  <link>/tags/app/</link>
-  <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
-  
-<guid>/tags/app/</guid>
-  <description></description>
-  </item>
-  
-<item>
   <title>Deep Learning</title>
   <link>/tags/deep-learning/</link>
-  <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+  <pubDate>Tue, 26 Apr 2016 00:00:00 +0100</pubDate>
   
 <guid>/tags/deep-learning/</guid>
-  <description></description>
-  </item>
-  
-<item>
-  <title>Visualisation</title>
-  <link>/tags/visualisation/</link>
-  <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
-  
-<guid>/tags/visualisation/</guid>
   <description></description>
   </item>
   
