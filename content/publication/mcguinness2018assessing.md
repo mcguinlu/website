@@ -26,10 +26,6 @@ url_video = ""
 url_poster = ""
 url_source = ""
 
-[[url_custom]]
-name = ""
-url =  ""
-
 tags = ["Bias","Commentary"]
 math = true
 highlight = true

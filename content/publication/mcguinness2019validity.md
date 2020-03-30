@@ -26,10 +26,6 @@ url_video = ""
 url_poster = ""
 url_source = ""
 
-[[url_custom]]
-name = ""
-url =  ""
-
 tags = ["Systematic-review","Dementia"]
 math = true
 highlight = true

@@ -6,11 +6,20 @@
   <generator>Hugo -- gohugo.io</generator>
 <language>en-us</language>
 <copyright>&amp;copy; Luke A McGuinness {year}</copyright>
-<lastBuildDate>Wed, 25 Mar 2020 00:00:00 +0100</lastBuildDate>
+<lastBuildDate>Wed, 25 Mar 2020 00:00:00 +0000</lastBuildDate>
 
 <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
 
 
+<item>
+  <title>Living-review</title>
+  <link>/tags/living-review/</link>
+  <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
+  
+<guid>/tags/living-review/</guid>
+  <description></description>
+  </item>
+  
 <item>
   <title>All</title>
   <link>/tags/all/</link>
@@ -39,11 +48,65 @@
   </item>
   
 <item>
+  <title>Commentary</title>
+  <link>/tags/commentary/</link>
+  <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+  
+<guid>/tags/commentary/</guid>
+  <description></description>
+  </item>
+  
+<item>
   <title>Citation management</title>
   <link>/tags/citation-management/</link>
   <pubDate>Sun, 01 Mar 2020 00:00:00 +0100</pubDate>
   
 <guid>/tags/citation-management/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Systematic-review</title>
+  <link>/tags/systematic-review/</link>
+  <pubDate>Sat, 27 Jul 2019 00:00:00 +0100</pubDate>
+  
+<guid>/tags/systematic-review/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Methods</title>
+  <link>/tags/methods/</link>
+  <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+  
+<guid>/tags/methods/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Dementia</title>
+  <link>/tags/dementia/</link>
+  <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
+  
+<guid>/tags/dementia/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Bias</title>
+  <link>/tags/bias/</link>
+  <pubDate>Mon, 01 Oct 2018 00:00:00 +0100</pubDate>
+  
+<guid>/tags/bias/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Protocol</title>
+  <link>/tags/protocol/</link>
+  <pubDate>Tue, 11 Apr 2017 00:00:00 +0100</pubDate>
+  
+<guid>/tags/protocol/</guid>
   <description></description>
   </item>
   

@@ -32,6 +32,12 @@
   
     <url>
     
+      <loc>/tags/living-review/</loc>
+      <lastmod>2020-03-25T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>/</loc>
       <lastmod>2020-03-25T00:00:00+00:00</lastmod>
     </url>
@@ -62,6 +68,12 @@
   
     <url>
     
+      <loc>/tags/</loc>
+      <lastmod>2020-03-25T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>/project/abcd/</loc>
       <lastmod>2020-03-25T00:00:00+01:00</lastmod>
     </url>
@@ -81,12 +93,6 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2020-03-25T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/</loc>
       <lastmod>2020-03-25T00:00:00+01:00</lastmod>
     </url>
   
@@ -129,6 +135,12 @@
     <url>
     
       <loc>/authors/bethel-a/</loc>
+      <lastmod>2020-03-23T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/commentary/</loc>
       <lastmod>2020-03-23T00:00:00+00:00</lastmod>
     </url>
   
@@ -380,6 +392,12 @@
   
     <url>
     
+      <loc>/tags/systematic-review/</loc>
+      <lastmod>2019-07-27T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>/authors/becker-bj/</loc>
       <lastmod>2019-01-25T00:00:00+00:00</lastmod>
     </url>
@@ -410,6 +428,12 @@
   
     <url>
     
+      <loc>/tags/methods/</loc>
+      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>/authors/moore-th/</loc>
       <lastmod>2019-01-25T00:00:00+00:00</lastmod>
     </url>
@@ -430,6 +454,12 @@
     
       <loc>/authors/thomas-j/</loc>
       <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/dementia/</loc>
+      <lastmod>2019-01-22T00:00:00+00:00</lastmod>
     </url>
   
     <url>
@@ -459,6 +489,12 @@
     <url>
     
       <loc>/publication/mcguinness2018assessing/</loc>
+      <lastmod>2018-10-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/bias/</loc>
       <lastmod>2018-10-01T00:00:00+01:00</lastmod>
     </url>
   
@@ -513,6 +549,12 @@
     <url>
     
       <loc>/authors/macarthur-gj/</loc>
+      <lastmod>2017-04-11T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/protocol/</loc>
       <lastmod>2017-04-11T00:00:00+01:00</lastmod>
     </url>
   

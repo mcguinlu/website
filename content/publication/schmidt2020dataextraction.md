@@ -26,10 +26,6 @@ url_video = ""
 url_poster = ""
 url_source = ""
 
-[[url_custom]]
-name = ""
-url =  ""
-
 tags = ["Living-review"]
 math = true
 highlight = true

@@ -24,11 +24,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://www.eshackathon.org"
-
-[[url_custom]]
-name = ""
-url =  ""
+url_source = ""
 
 tags = ["Commentary"]
 math = true
