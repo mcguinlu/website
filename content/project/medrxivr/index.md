@@ -10,4 +10,7 @@ tags:
 - App
 - Citation management
 title: medrxivr
+
+url_slides: "https://mcguinlu.github.io/slides/20-03-06-intro-to-medrxivr/intro-to-medrxivr.html#1"
 ---
+  
