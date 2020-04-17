@@ -26,6 +26,12 @@
   
     <url>
     
+      <loc>/publication/schmidt2020dataextraction/schmidt2020dataextraction/</loc>
+      <lastmod>2020-03-25T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>/authors/higgins-jpt/</loc>
       <lastmod>2020-03-25T00:00:00+00:00</lastmod>
     </url>
@@ -33,12 +39,6 @@
     <url>
     
       <loc>/tags/living-review/</loc>
-      <lastmod>2020-03-25T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/</loc>
       <lastmod>2020-03-25T00:00:00+00:00</lastmod>
     </url>
   
@@ -111,6 +111,12 @@
     <url>
     
       <loc>/publication/nakagawa2020anewecosystem/</loc>
+      <lastmod>2020-03-23T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/nakagawa2020anewecosystem/nakagawa2020anewecosystem/</loc>
       <lastmod>2020-03-23T00:00:00+00:00</lastmod>
     </url>
   
@@ -272,14 +278,14 @@
   
     <url>
     
-      <loc>/talk/intro-to-shiny-nov-19/</loc>
-      <lastmod>2019-11-15T13:00:00+01:00</lastmod>
+      <loc>/talk/talk-1/</loc>
+      <lastmod>2019-11-15T13:00:00+00:00</lastmod>
     </url>
   
     <url>
     
       <loc>/talk/</loc>
-      <lastmod>2019-11-15T13:00:00+01:00</lastmod>
+      <lastmod>2019-11-15T13:00:00+00:00</lastmod>
     </url>
   
     <url>
@@ -326,6 +332,12 @@
   
     <url>
     
+      <loc>/publication/yao2019effectiveness/yao2019effectiveness/</loc>
+      <lastmod>2019-10-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>/authors/kurian-k/</loc>
       <lastmod>2019-10-01T00:00:00+01:00</lastmod>
     </url>
@@ -357,6 +369,12 @@
     <url>
     
       <loc>/publication/french2019cannabis/</loc>
+      <lastmod>2019-07-27T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/french2019cannabis/french2019cannabis/</loc>
       <lastmod>2019-07-27T00:00:00+01:00</lastmod>
     </url>
   
@@ -452,6 +470,12 @@
   
     <url>
     
+      <loc>/publication/higgins2019synthesising/higgins2019synthesising/</loc>
+      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>/authors/thomas-j/</loc>
       <lastmod>2019-01-25T00:00:00+00:00</lastmod>
     </url>
@@ -476,6 +500,12 @@
   
     <url>
     
+      <loc>/publication/mcguinness2019validity/mcguinness2019validity/</loc>
+      <lastmod>2019-01-22T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>/authors/thomas-sl/</loc>
       <lastmod>2019-01-22T00:00:00+00:00</lastmod>
     </url>
@@ -489,6 +519,12 @@
     <url>
     
       <loc>/publication/mcguinness2018assessing/</loc>
+      <lastmod>2018-10-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/mcguinness2018assessing/mcguinness2018assessing/</loc>
       <lastmod>2018-10-01T00:00:00+01:00</lastmod>
     </url>
   
@@ -514,6 +550,12 @@
     
       <loc>/tutorial/</loc>
       <lastmod>2018-09-09T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2018-06-28T00:00:00+01:00</lastmod>
     </url>
   
     <url>
@@ -572,6 +614,12 @@
   
     <url>
     
+      <loc>/publication/cheng2017therapeutic/cheng2017therapeutic/</loc>
+      <lastmod>2017-04-11T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>/project/robvis/</loc>
       <lastmod>2016-04-27T00:00:00+01:00</lastmod>
     </url>
@@ -591,6 +639,11 @@
     <url>
     
       <loc>/author/admin/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/admin/</loc>
     </url>
   
     <url>

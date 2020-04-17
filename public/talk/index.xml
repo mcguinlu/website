@@ -6,25 +6,18 @@
   <generator>Hugo -- gohugo.io</generator>
 <language>en-us</language>
 <copyright>&amp;copy; Luke A McGuinness {year}</copyright>
-<lastBuildDate>Fri, 15 Nov 2019 13:00:00 +0100</lastBuildDate>
+<lastBuildDate>Fri, 15 Nov 2019 13:00:00 +0000</lastBuildDate>
 
 <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
 
 
 <item>
   <title>Introduction to Shiny</title>
-  <link>/talk/intro-to-shiny-nov-19/</link>
-  <pubDate>Fri, 15 Nov 2019 13:00:00 +0100</pubDate>
+  <link>/talk/talk-1/</link>
+  <pubDate>Fri, 15 Nov 2019 13:00:00 +0000</pubDate>
   
-<guid>/talk/intro-to-shiny-nov-19/</guid>
-  <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    
-Click on the &#39;Slides&#39; button above to view the slides for this talk.
-
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
+<guid>/talk/talk-1/</guid>
+  <description></description>
   </item>
   
 </channel>
