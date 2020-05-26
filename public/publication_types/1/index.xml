@@ -6,11 +6,29 @@
   <generator>Hugo -- gohugo.io</generator>
 <language>en-us</language>
 <copyright>&amp;copy; Luke A McGuinness {year}</copyright>
-<lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0100</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2020 00:00:00 +0100</lastBuildDate>
 
 <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
 
 
+<item>
+  <title>medrxivr: A new tool for searching for and retrieving records and PDFs from the medRxiv preprint repository</title>
+  <link>/publication/medrxivrconference/medrxivrconference/</link>
+  <pubDate>Sun, 04 Oct 2020 00:00:00 +0100</pubDate>
+  
+<guid>/publication/medrxivrconference/medrxivrconference/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Effectiveness of BRAF inhibitors in patients with BRAF V600 mutation positive glioma; a systematic review</title>
+  <link>/publication/yao2019effectiveness/</link>
+  <pubDate>Tue, 01 Oct 2019 00:00:00 +0100</pubDate>
+  
+<guid>/publication/yao2019effectiveness/</guid>
+  <description></description>
+  </item>
+  
 <item>
   <title>Effectiveness of BRAF inhibitors in patients with BRAF V600 mutation positive glioma; a systematic review</title>
   <link>/publication/yao2019effectiveness/yao2019effectiveness/</link>

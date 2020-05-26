@@ -6,11 +6,98 @@
   <generator>Hugo -- gohugo.io</generator>
 <language>en-us</language>
 <copyright>&amp;copy; Luke A McGuinness {year}</copyright>
-<lastBuildDate>Fri, 08 Nov 2019 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 09 May 2020 00:00:00 +0000</lastBuildDate>
 
 <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
 
 
+<item>
+  <title>On Data/Code Availabilty Statements</title>
+  <link>/post/2020-05-09-on-data-code-availabilty-statements/on-data-code-availabilty-statements/</link>
+  <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+  
+<guid>/post/2020-05-09-on-data-code-availabilty-statements/on-data-code-availabilty-statements/</guid>
+  <description>
+
+
+&lt;div id=&#34;background&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Background&lt;/h2&gt;
+&lt;p&gt;Recently, I’ve been thinking a lot about the usefulness of data and code availability statements, with are beginning to be mandated inspired both by interactions on Twitter and a number of published papers.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;the-problem-as-it-stands&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;The problem, as it stands&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Data and code availability statements, as they are current used, are not fit for purpose.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Please don’t take this the wrong way - plenty of researchers are excellent about making the process&lt;/p&gt;
+&lt;p&gt;For example, the Editor-in-Chief of Molecular Brain reported that when the raw data supporting the claims of 41 studies submitted to their journal were requested, 21 studies were withdrawn and 19 of the remaining 20 were rejected based on insufficient raw data. &lt;span class=&#34;citation&#34;&gt;(Miyakawa 2020)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Similarly.&lt;/p&gt;
+&lt;p&gt;Finally, I personally have come up against this is a number of different settings. I recently came across a pre-print decribing a randomised controlled trial. The full text of the Data/code availabilty statement read as follows:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;No.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2020-05-09-on-data-code-availabilty-statements_files/data_avail_cartoon.JPG&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;But at least the authors above are direct and honest.- the equivalent of over my dead body. In contrast, many authors default to that most useless of phrases: “Data and code are available upon reasonable request”.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;
+&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;
+&lt;a href=&#34;https://twitter.com/hashtag/OpenScience?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#OpenScience&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/OpenData?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#OpenData&lt;/a&gt;&lt;br&gt;&lt;br&gt;Them: “Data available from authors on reasonable request”&lt;br&gt;&lt;br&gt;Me: *Reasonable Request*&lt;br&gt;&lt;br&gt;Them: &lt;a href=&#34;https://t.co/4GSKWZejK9&#34;&gt;pic.twitter.com/4GSKWZejK9&lt;/a&gt;
+&lt;/p&gt;
+— Chris Noone (He/Him) (@Chris_Noone_) &lt;a href=&#34;https://twitter.com/Chris_Noone_/status/1252874822461255680?ref_src=twsrc%5Etfw&#34;&gt;April 22, 2020&lt;/a&gt;
+&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;p&gt;To me, this is inverting the burden of proof - they are the ones making the claim, the ones who want their research to be believed. Why should I have to justify why I want to see how they got the result they did?&lt;/p&gt;
+&lt;p&gt;And further, who decides if my request is “reasonable”, and how do they reach a decision?&lt;a href=&#34;#fn1&#34; class=&#34;footnote-ref&#34; id=&#34;fnref1&#34;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt; How much justification do I need to provide in order for it to be “reasonable”, and should this not be included in the data/code availability statement? Is it simply a case of my asking (in which case, why not just make the data available in the first place, and cut down on the time and effort expended on emailing)? Or do I need to wait for a supermoon, trudge up to the tallest hill I can find and sacrifice a full professor to the gods of academia before my request is deemed “reasonable”?&lt;/p&gt;
+&lt;p&gt;Personally, I would prefer authors just said “No.”&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;the-case-for-honesty&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;The case for honesty&lt;/h2&gt;
+&lt;p&gt;Personally, I have no problem with people saying that the code/data are not available, with an important caveat - they have to justify why. There are scenarios, particularly in health research, where the data is not freely available due to the need to protect sensitive patient data. Similarly, if you have just spent months developing a new method for analysis, and wish to apply it to other questions, I can see the argument for not making the code available.&lt;/p&gt;
+&lt;p&gt;However, xplaining the reason why the materials aren’t avaiable, rather than just having some vague statment that you might be able to have a peek if you ask nicely, would help us to better understand the barriers to the open sharing of code and data that exist.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;categorising-the-issues&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Categorising the issues&lt;/h2&gt;
+&lt;p&gt;For me, the problems with the current set-up fall into a number of distinct categories:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Authors are not aware of what a useful/informative code availability statement looks like&lt;/li&gt;
+&lt;li&gt;There appears to be no critical review (with some notable exceptions) of the data/code availability statements submitted alongside manuscripts, and authors are not challenged to justify the statements they do make&lt;/li&gt;
+&lt;li&gt;Certain fields (e.g. my own, epidemiology), sharing data can be difficult due to data protection, and so authors pass off&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;solutions&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Solutions&lt;/h2&gt;
+&lt;p&gt;Provide very specific details on how to replicate the analysis - if the data is held by a central body, in the case of the CPRD, list the application number, and specify extract that you used for the analysis.&lt;/p&gt;
+&lt;p&gt;Post the analysis/data to a time-stamped private repository, to which access can be given on reasonable request.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+&lt;div id=&#34;refs&#34; class=&#34;references&#34;&gt;
+&lt;div id=&#34;ref-miyakawa2020&#34;&gt;
+&lt;p&gt;Miyakawa, Tsuyoshi. 2020. “No Raw Data, No Science: Another Possible Source of the Reproducibility Crisis.” &lt;em&gt;Molecular Brain&lt;/em&gt; 13 (1): 24. &lt;a href=&#34;https://doi.org/10.1186/s13041-020-0552-2&#34;&gt;https://doi.org/10.1186/s13041-020-0552-2&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn1&#34;&gt;&lt;p&gt;My grandfather used to say that the word “nice” was completely useless, as it gave no information about the thing it described. I feel the same about “reasonable” in this context.&lt;a href=&#34;#fnref1&#34; class=&#34;footnote-back&#34;&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+  </item>
+  
+<item>
+  <title>Searching medRxiv</title>
+  <link>/post/searching-medrxiv/</link>
+  <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+  
+<guid>/post/searching-medrxiv/</guid>
+  <description>
+
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;However, a bigger issue I noticed is that if you swap the terms in the second bracket, you get a very different number of hits (51 vs 115), which, if the Booleans are working as expected, should not be the case. So based, on arbitary order, you may be missing records! &lt;a href=&#34;https://t.co/sf1PIrBaOl&#34;&gt;pic.twitter.com/sf1PIrBaOl&lt;/a&gt;&lt;/p&gt;&amp;mdash; Luke McGuinness (@mcguinlu) &lt;a href=&#34;https://twitter.com/mcguinlu/status/1257394058743427072?ref_src=twsrc%5Etfw&#34;&gt;May 4, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+</description>
+  </item>
+  
 <item>
   <title>Using Stata in R with {RStata} and {pushoverr}</title>
   <link>/post/using-stata-r-and-pushoverr/</link>

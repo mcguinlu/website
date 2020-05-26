@@ -1,0 +1,76 @@
+---
+title: On Data/Code Availabilty Statements
+author: Luke McGuinness
+date: '2020-05-09'
+slug: on-data-code-availabilty-statements
+categories: []
+draft: true
+bibliography: [data-avail.bib]
+tags:
+  - Data/code availability
+image:
+  caption: ''
+  focal_point: ''
+---
+
+
+## Background
+
+Recently, I've been thinking a lot about the usefulness of data and code availability statements, with are beginning to be mandated inspired both by interactions on Twitter and a number of published papers.
+
+
+## The problem, as it stands
+
+> Data and code availability statements, as they are current used, are not fit for purpose.
+
+Please don't take this the wrong way - plenty of researchers are excellent about making the process
+
+For example, the Editor-in-Chief of Molecular Brain reported that when the raw data supporting the claims of 41 studies submitted to their journal were requested, 21 studies were withdrawn and 19 of the remaining 20 were rejected based on insufficient raw data. [@miyakawa2020]
+
+Similarly. 
+
+Finally, I personally have come up against this is a number of different settings. I recently came across a pre-print decribing a randomised controlled trial. The full text of the Data/code availabilty statement read as follows:
+
+> No.
+
+![](/post/2020-05-09-on-data-code-availabilty-statements_files/data_avail_cartoon.JPG)
+
+But at least the authors above are direct and honest.- the equivalent of over my dead body. In contrast, many authors default to that most useless of phrases: "Data and code are available upon reasonable request".
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/OpenScience?src=hash&amp;ref_src=twsrc%5Etfw">#OpenScience</a> <a href="https://twitter.com/hashtag/OpenData?src=hash&amp;ref_src=twsrc%5Etfw">#OpenData</a><br><br>Them: &quot;Data available from authors on reasonable request&quot;<br><br>Me: \*Reasonable Request\*<br><br>Them: <a href="https://t.co/4GSKWZejK9">pic.twitter.com/4GSKWZejK9</a></p>&mdash; Chris Noone (He/Him) (\@Chris_Noone_) <a href="https://twitter.com/Chris_Noone_/status/1252874822461255680?ref_src=twsrc%5Etfw">April 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+To me, this is inverting the burden of proof - they are the ones making the claim, the ones who want their research to be believed. Why should I have to justify why I want to see how they got the result they did?
+
+And further, who decides if my request is "reasonable", and how do they reach a decision?^[My grandfather used to say that the word "nice" was completely useless, as it gave no information about the thing it described. I feel the same about "reasonable" in this context.] How much justification do I need to provide in order for it to be "reasonable", and should this not be included in the data/code availability statement? Is it simply a case of my asking (in which case, why not just make the data available in the first place, and cut down on the time and effort expended on emailing)? Or do I need to wait for a supermoon, trudge up to the tallest hill I can find and sacrifice a full professor to the gods of academia before my request is deemed "reasonable"?
+
+Personally, I would prefer authors just said "No."
+
+## The case for honesty
+
+Personally, I have no problem with people saying that the code/data are not available, with an important caveat - they have to justify why. There are scenarios, particularly in health research, where the data is not freely available due to the need to protect sensitive patient data. Similarly, if you have just spent months developing a new method for analysis, and wish to apply it to other questions, I can see the argument for not making the code available.
+
+However, xplaining the reason why the materials aren't avaiable, rather than just having some vague statment that you might be able to have a peek if you ask nicely, would help us to better understand the barriers to the open sharing of code and data that exist.
+
+## Categorising the issues
+
+For me, the problems with the current set-up fall into a number of distinct categories:
+
+* Authors are not aware of what a useful/informative code availability statement looks like
+* There appears to be no critical review (with some notable exceptions) of the data/code availability statements submitted alongside manuscripts, and authors are not challenged to justify the statements they do make
+* Certain fields (e.g. my own, epidemiology), sharing data can be difficult due to data protection, and so authors pass off
+
+
+## Solutions
+
+Provide very specific details on how to replicate the analysis - if the data is held by a central body, in the case of the CPRD, list the application number, and specify extract that you used for the analysis.
+
+Post the analysis/data to a time-stamped private repository, to which access can be given on reasonable request.
+
+
+
+
+
+
+
+
+**References**

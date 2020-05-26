@@ -6,7 +6,7 @@
   <generator>Hugo -- gohugo.io</generator>
 <language>en-us</language>
 <copyright>&amp;copy; Luke A McGuinness {year}</copyright>
-<lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0100</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2020 00:00:00 +0100</lastBuildDate>
 
 <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
 
@@ -14,9 +14,18 @@
 <item>
   <title>**McGuinness LA**</title>
   <link>/authors/mcguinness-la/</link>
-  <pubDate>Tue, 28 Apr 2020 00:00:00 +0100</pubDate>
+  <pubDate>Sun, 04 Oct 2020 00:00:00 +0100</pubDate>
   
 <guid>/authors/mcguinness-la/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Schmidt L</title>
+  <link>/authors/schmidt-l/</link>
+  <pubDate>Sun, 04 Oct 2020 00:00:00 +0100</pubDate>
+  
+<guid>/authors/schmidt-l/</guid>
   <description></description>
   </item>
   
@@ -35,15 +44,6 @@
   <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
   
 <guid>/authors/olorisade-bk/</guid>
-  <description></description>
-  </item>
-  
-<item>
-  <title>Schmidt L</title>
-  <link>/authors/schmidt-l/</link>
-  <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
-  
-<guid>/authors/schmidt-l/</guid>
   <description></description>
   </item>
   

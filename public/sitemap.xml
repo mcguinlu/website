@@ -3,18 +3,78 @@
     <url>
     
       <loc>/authors/mcguinness-la/</loc>
-      <lastmod>2020-04-28T00:00:00+01:00</lastmod>
+      <lastmod>2020-10-04T00:00:00+01:00</lastmod>
     </url>
   
     <url>
     
-      <loc>/publication_types/2/</loc>
-      <lastmod>2020-04-28T00:00:00+01:00</lastmod>
+      <loc>/publication_types/1/</loc>
+      <lastmod>2020-10-04T00:00:00+01:00</lastmod>
     </url>
   
     <url>
     
       <loc>/authors/</loc>
+      <lastmod>2020-10-04T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/medrxivrconference/medrxivrconference/</loc>
+      <lastmod>2020-10-04T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <lastmod>2020-10-04T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/</loc>
+      <lastmod>2020-10-04T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/schmidt-l/</loc>
+      <lastmod>2020-10-04T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/post/2020-05-09-on-data-code-availabilty-statements/on-data-code-availabilty-statements/</loc>
+      <lastmod>2020-05-09T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/post/</loc>
+      <lastmod>2020-05-09T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/categories/blog-r/</loc>
+      <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/categories/</loc>
+      <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/post/searching-medrxiv/</loc>
+      <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication_types/2/</loc>
       <lastmod>2020-04-28T00:00:00+01:00</lastmod>
     </url>
   
@@ -38,18 +98,6 @@
   
     <url>
     
-      <loc>/publication_types/</loc>
-      <lastmod>2020-04-28T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/publication/</loc>
-      <lastmod>2020-04-28T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
       <loc>/publication/mcguinness2020robvis/mcguinness2020robvis/</loc>
       <lastmod>2020-04-28T00:00:00+01:00</lastmod>
     </url>
@@ -58,6 +106,12 @@
     
       <loc>/tags/</loc>
       <lastmod>2020-04-28T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/schmidt2020dataextraction/</loc>
+      <lastmod>2020-03-25T00:00:00+00:00</lastmod>
     </url>
   
     <url>
@@ -75,12 +129,6 @@
     <url>
     
       <loc>/authors/olorisade-bk/</loc>
-      <lastmod>2020-03-25T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/authors/schmidt-l/</loc>
       <lastmod>2020-03-25T00:00:00+00:00</lastmod>
     </url>
   
@@ -117,6 +165,12 @@
     <url>
     
       <loc>/authors/evidence-synthesis-hackathon-2019-participants/</loc>
+      <lastmod>2020-03-23T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/nakagawa2020anewecosystem/</loc>
       <lastmod>2020-03-23T00:00:00+00:00</lastmod>
     </url>
   
@@ -302,37 +356,19 @@
   
     <url>
     
-      <loc>/categories/blog-r/</loc>
-      <lastmod>2019-11-08T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/categories/</loc>
-      <lastmod>2019-11-08T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/post/</loc>
-      <lastmod>2019-11-08T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-    
       <loc>/post/using-stata-r-and-pushoverr/</loc>
       <lastmod>2019-11-08T00:00:00+00:00</lastmod>
     </url>
   
     <url>
     
-      <loc>/publication_types/1/</loc>
+      <loc>/authors/dawson-s/</loc>
       <lastmod>2019-10-01T00:00:00+01:00</lastmod>
     </url>
   
     <url>
     
-      <loc>/authors/dawson-s/</loc>
+      <loc>/publication/yao2019effectiveness/</loc>
       <lastmod>2019-10-01T00:00:00+01:00</lastmod>
     </url>
   
@@ -369,6 +405,12 @@
     <url>
     
       <loc>/authors/beck-c/</loc>
+      <lastmod>2019-07-27T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/french2019cannabis/</loc>
       <lastmod>2019-07-27T00:00:00+01:00</lastmod>
     </url>
   
@@ -458,6 +500,12 @@
   
     <url>
     
+      <loc>/publication/higgins2019synthesising/</loc>
+      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>/publication/higgins2019synthesising/higgins2019synthesising/</loc>
       <lastmod>2019-01-25T00:00:00+00:00</lastmod>
     </url>
@@ -482,6 +530,12 @@
   
     <url>
     
+      <loc>/publication/mcguinness2019validity/</loc>
+      <lastmod>2019-01-22T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>/publication/mcguinness2019validity/mcguinness2019validity/</loc>
       <lastmod>2019-01-22T00:00:00+00:00</lastmod>
     </url>
@@ -496,6 +550,12 @@
     
       <loc>/authors/warrengash-c/</loc>
       <lastmod>2019-01-22T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/mcguinness2018assessing/</loc>
+      <lastmod>2018-10-01T00:00:00+01:00</lastmod>
     </url>
   
     <url>
@@ -584,6 +644,12 @@
   
     <url>
     
+      <loc>/publication/cheng2017therapeutic/</loc>
+      <lastmod>2017-04-11T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>/publication/cheng2017therapeutic/cheng2017therapeutic/</loc>
       <lastmod>2017-04-11T00:00:00+01:00</lastmod>
     </url>
@@ -619,6 +685,11 @@
     <url>
     
       <loc>/author/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/data/code-availability/</loc>
     </url>
   
     <url>

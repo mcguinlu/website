@@ -1,0 +1,18 @@
+---
+title: Searching medRxiv
+author: Luke McGuinness
+date: '2020-05-05'
+slug: searching-medrxiv
+draft: true
+categories:
+  - Blog-R
+tags: []
+image:
+  caption: ''
+  focal_point: ''
+---
+
+
+```{r echo=FALSE}
+blogdown::shortcode('tweet', '1257394058743427072')
+```
