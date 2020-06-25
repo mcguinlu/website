@@ -4,7 +4,7 @@
 
 title = "Risk‐Of‐Bias VISualization (robvis): an R package and Shiny web app for visualizing risk‐of‐bias assessments"
 date = 2020-04-28
-authors = ["McGuinness LA","Higgins JPT"]
+authors = ["**McGuinness LA**","Higgins JPT"]
 publication_types = ["2"]
 
 publication = "Research Synthesis Methods"

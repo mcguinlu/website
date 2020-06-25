@@ -7,7 +7,7 @@ date = 2020-03-23
 authors = ["Nakagawa S","Dunn AG","Lagisz M","Bannach-Brown A","Grames EM","Sanchez-Tojar A","Rose E","O’Dea RE","Noble DWA","Westgate MJ","Arnold PA","Barrow S","Bethel A","Cooper E","Foo YZ","Geange SR","Hennessy E","Mapanga W","Mengersen K","Munera C","Page MJ","Welch V","**Evidence Synthesis Hackathon 2019 Participants**","Haddaway NR [*as a member of the Synthesis Hackathon 2019*]"]
 publication_types = ["2"]
 
-publication = "Nature Evolution and Ecology"
+publication = "Nature Evolution and Ecology *4*, 498–501"
 
 abstract = "Synthesizing evidence is an essential part of scientific progress, but it is often done in a slow and uncoordinated manner, sometimes producing misleading conclusions. Here, we propose the idea of an ‘open synthesis community’ to resolve this pressing issue."
 

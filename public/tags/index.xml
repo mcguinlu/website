@@ -6,11 +6,29 @@
   <generator>Hugo -- gohugo.io</generator>
 <language>en-us</language>
 <copyright>&amp;copy; Luke A McGuinness {year}</copyright>
-<lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0100</lastBuildDate>
+<lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0100</lastBuildDate>
 
 <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
 
 
+<item>
+  <title>Protocol</title>
+  <link>/tags/protocol/</link>
+  <pubDate>Fri, 05 Jun 2020 00:00:00 +0100</pubDate>
+  
+<guid>/tags/protocol/</guid>
+  <description></description>
+  </item>
+  
+<item>
+  <title>Systematic-review</title>
+  <link>/tags/systematic-review/</link>
+  <pubDate>Fri, 05 Jun 2020 00:00:00 +0100</pubDate>
+  
+<guid>/tags/systematic-review/</guid>
+  <description></description>
+  </item>
+  
 <item>
   <title>Bias</title>
   <link>/tags/bias/</link>
@@ -84,29 +102,11 @@
   </item>
   
 <item>
-  <title>Systematic-review</title>
-  <link>/tags/systematic-review/</link>
-  <pubDate>Sat, 27 Jul 2019 00:00:00 +0100</pubDate>
-  
-<guid>/tags/systematic-review/</guid>
-  <description></description>
-  </item>
-  
-<item>
   <title>Dementia</title>
   <link>/tags/dementia/</link>
   <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
   
 <guid>/tags/dementia/</guid>
-  <description></description>
-  </item>
-  
-<item>
-  <title>Protocol</title>
-  <link>/tags/protocol/</link>
-  <pubDate>Tue, 11 Apr 2017 00:00:00 +0100</pubDate>
-  
-<guid>/tags/protocol/</guid>
   <description></description>
   </item>
   
