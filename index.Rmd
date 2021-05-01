@@ -1,3 +1,38 @@
 ---
-site: blogdown:::blogdown_site
+title: "Luke A McGuinness"
+image: "content/author/admin/avatar.jpeg"
+links:
+  - label: Blog
+    url: "https://mcguinlu.netlify.app/"
+  - label: Twitter
+    url: "https://twitter.com/mcguinlu"
+  - label: GitHub
+    url: "https://github.com/mcguinlu"
+  - label: Email
+    url: "mailto:luke.a.mcguinness@gmail.com"
+  - label: List of Publications
+    url: "https://scholar.google.co.uk/citations?user=AOkQTXQAAAAJ"
+output:
+  postcards::trestles
 ---
+ 
+## Bio
+
+I am an NIHR Doctoral Research Fellow at the University of Bristol Medical School, where he is using evidence synthesis methods to examine the relationship between blood lipid levels and dementia risk. 
+
+&nbsp;
+
+## Education
+__PhD in Population Health Sciences (candidate)__ | Bristol Medical School, Bristol, UK | Jan 2019 - Jan 2021
+
+__MSc in Epidemiology__ | London School of Hygiene and Tropical Medicine, London, UK | Sept 2016 - Sept 2017
+
+__BA (Mod.) in Genetics__ |  Trinity College Dublin, Dublin, Ireland | Sept 2012 - May 2016
+
+&nbsp;
+
+## Experience
+
+__Senior Research Associate__ | University of Bristol | April 2021 - Present
+
+__Research Associate__ | University of Bristol | September 2016 - April 2021
