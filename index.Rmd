@@ -1,6 +1,7 @@
 ---
-title: "Luke A McGuinness"
-image: "content/author/admin/avatar.jpeg"
+title: "Luke A. McGuinness"
+image: "avatar.jpg"
+favicon: "favicon.ico"
 links:
   - label: Blog
     url: "https://mcguinlu.netlify.app/"
@@ -8,22 +9,26 @@ links:
     url: "https://twitter.com/mcguinlu"
   - label: GitHub
     url: "https://github.com/mcguinlu"
+  - label: Publications
+    url: "https://scholar.google.co.uk/citations?user=AOkQTXQAAAAJ"
   - label: Email
     url: "mailto:luke.a.mcguinness@gmail.com"
-  - label: List of Publications
-    url: "https://scholar.google.co.uk/citations?user=AOkQTXQAAAAJ"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-I am an NIHR Doctoral Research Fellow at the University of Bristol Medical School, where he is using evidence synthesis methods to examine the relationship between blood lipid levels and dementia risk. 
+I am an NIHR Doctoral Research Fellow at the University of Bristol Medical School, where I use large electronic health record (EHR) databases and evidence synthesis methods to examine the relationship between blood lipid levels and dementia risk. 
+
+I am an enthusiastic R user/developer and maintain several research-orientated open-source R packages including [`robvis`](https://github.com/mcguinlu/robvis) and [`medrxivr`](https://github.com/ropensci/medrxivr), in addition to some smaller utility/learning packages (e.g. [`pathformatr`](https://github.com/mcguinlu/pathformatr)).
+
+Outside of work, I am an avid fan of running, LEGO and really terrible movies.
 
 &nbsp;
 
 ## Education
-__PhD in Population Health Sciences (candidate)__ | Bristol Medical School, Bristol, UK | Jan 2019 - Jan 2021
+__PhD in Population Health Sciences (Candidate)__ | Bristol Medical School, Bristol, UK | Jan 2019 - Jan 2021
 
 __MSc in Epidemiology__ | London School of Hygiene and Tropical Medicine, London, UK | Sept 2016 - Sept 2017
 
