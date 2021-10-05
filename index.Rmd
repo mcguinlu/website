@@ -19,9 +19,11 @@ output:
  
 ## Bio
 
-I am an NIHR Doctoral Research Fellow at the University of Bristol Medical School, where I use large electronic health record (EHR) databases and evidence synthesis methods to examine the relationship between blood lipid levels and dementia risk. 
+I am an NIHR Doctoral Research Fellow at the University of Bristol Medical School, where I lead a programme of research to examine the relationship between cholesterol and dementia risk. My core methods interest is the re-analysis of existing data sources, including large databases of electronic health records (EHR) and academic literature, to provide better answers to clinical questions.
 
-I am an enthusiastic R user/developer and maintain several research-orientated open-source R packages including [`robvis`](https://github.com/mcguinlu/robvis) and [`medrxivr`](https://github.com/ropensci/medrxivr), in addition to some smaller utility/learning packages (e.g. [`pathformatr`](https://github.com/mcguinlu/pathformatr)).
+In addition to my academic role, I am a freelance data scientist, helping clients in both the private and charity sectors to make data-informed decisions.
+
+I am an enthusiastic R user/developer, and maintain several research-orientated open-source R packages including [`robvis`](https://github.com/mcguinlu/robvis) and [`medrxivr`](https://github.com/ropensci/medrxivr), in addition to some smaller utility/learning packages (e.g. [`pathformatr`](https://github.com/mcguinlu/pathformatr)).
 
 Outside of work, I am an avid fan of running, [LEGO](https://mcguinlu.netlify.app/2021/02/02/baby-yoda-in-r/) and really terrible movies.
 
