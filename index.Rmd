@@ -19,7 +19,7 @@ output:
  
 ## Bio
 
-I am an NIHR Doctoral Research Fellow at the University of Bristol Medical School, where I lead a programme of research to examine the relationship between cholesterol and dementia risk. My core methods interest is the re-analysis of existing data sources, including large databases of electronic health records (EHR) and academic literature, to provide better answers to clinical questions.
+I am an NIHR Doctoral Research Fellow at the University of Bristol Medical School, where I lead a programme of research to examine the relationship between cholesterol and dementia risk. My core methodological interest is the re-analysis of existing data sources, including large databases of electronic health records (EHR) and academic literature, to provide better answers to clinical research questions.
 
 In addition to my academic role, I am a freelance data scientist, helping clients in both the private and charity sectors to make data-informed decisions.
 
