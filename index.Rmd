@@ -2,7 +2,9 @@
 title: "Luke A. McGuinness"
 image: "avatar.jpg"
 favicon: "favicon.ico"
-links:
+links:  
+  - label: CV
+    url: "Luke_McGuinness_CV.pdf"
   - label: Blog
     url: "https://mcguinlu.netlify.app"
   - label: Twitter
