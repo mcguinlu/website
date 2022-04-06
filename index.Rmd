@@ -19,14 +19,14 @@ output:
  
 ## Bio
 
-I am an enthusiastic R user/developer, and maintain several research-orientated open-source R packages including [`robvis`](https://github.com/mcguinlu/robvis) and [`medrxivr`](https://github.com/ropensci/medrxivr), in addition to some smaller utility/learning packages (e.g. [wordcountaddin](https://github.com/benmarwick/wordcountaddin) and [`pathformatr`](https://github.com/mcguinlu/pathformatr)).
+I am data scientist and enthusiastic R user/developer. I maintain several research-orientated open-source R packages including [`robvis`](https://github.com/mcguinlu/robvis) and [`medrxivr`](https://github.com/ropensci/medrxivr), in addition to some smaller utility/learning packages (e.g. [wordcountaddin](https://github.com/benmarwick/wordcountaddin) and [`pathformatr`](https://github.com/mcguinlu/pathformatr)).
 
-Outside of work, I am an avid fan of running, [LEGO](https://mcguinlu.netlify.app/2021/02/02/baby-yoda-in-r/) and really terrible movies.
+Outside of my work, I am an avid fan of running, [LEGO](https://mcguinlu.netlify.app/2021/02/02/baby-yoda-in-r/) and really terrible movies.
 
 &nbsp;
 
 ## Education
-__PhD in Population Health Sciences__ | Bristol Medical School, Bristol, UK | Jan 2019 - Mar 2021
+__PhD in Epidemiology/Population Health Sciences__ | Bristol Medical School, Bristol, UK | Jan 2019 - Mar 2021
 
 __MSc in Epidemiology__ | London School of Hygiene and Tropical Medicine, London, UK | Sept 2016 - Sept 2017
 
